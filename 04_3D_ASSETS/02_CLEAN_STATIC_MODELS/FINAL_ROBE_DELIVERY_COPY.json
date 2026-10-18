@@ -1,0 +1,22 @@
+{
+  "copied_utc": "2026-10-18T20:04:08.697248+00:00",
+  "records": [
+    {
+      "ref": "REF044",
+      "from": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\_CLEANUP_V1\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim",
+      "to": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim",
+      "native_sha256": "b2c14ab8cc0f70c1c45c5ac7ef0b98a51aa65b025e8854ce446baee0adfc6783",
+      "glb_sha256": "f0f854db43a24be39921398ee74219b9667b5b163b281bf0ff2242428138681f",
+      "fbx_sha256": "baddde61e92ce6bbb3d0fa88bed79f23871823ef2c5741fd30704cfac584cec9"
+    },
+    {
+      "ref": "REF118",
+      "from": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\_CLEANUP_V1\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim",
+      "to": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim",
+      "native_sha256": "f3f37ff6e6f15ca6ea2accc5eba8c74f6c84d73e0067898767361e5840e8d07c",
+      "glb_sha256": "1df7db9acefc6a31ee1244b336fb8f5ce9e54bbe7e17515506f7d281bc063c89",
+      "fbx_sha256": "4533ac1847313ce19cc868c90ca9e5e908f90c5b71fc798c7e12f6ef04a7350d"
+    }
+  ],
+  "protected_originals_modified": false
+}

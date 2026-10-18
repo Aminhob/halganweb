@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\pc\Documents\HALGAN ASSETS\OLD\ORGANIZED_2026-10-18\04_3D_ASSETS\HALGAN_TRIPO_UNIQUE\_tracking\blender_cleanup_v1.py", line 278, in main
+    export_validate(ref,row,folder,edits)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\Documents\HALGAN ASSETS\OLD\ORGANIZED_2026-10-18\04_3D_ASSETS\HALGAN_TRIPO_UNIQUE\_tracking\blender_cleanup_v1.py", line 262, in export_validate
+    bpy.ops.wm.read_factory_settings(use_empty=True);bpy.ops.import_scene.gltf(filepath=str(glb));imported=meshes();assert tris(imported)==ntri,(ref,ntri,tris(imported));bb=bounds(imported);assert max(abs(bb[i][j]-b[i][j]) for i in range(3) for j in range(2))<.003
+                                                                                                                           ^^^^^^^^^^^^^^^^^^^^
+AssertionError: ('REF007', 19566, 19564)

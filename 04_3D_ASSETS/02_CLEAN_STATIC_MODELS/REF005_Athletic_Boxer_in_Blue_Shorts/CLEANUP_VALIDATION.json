@@ -1,0 +1,49 @@
+{
+  "ref": "REF005",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF005_Athletic_Boxer_in_Blue_Shorts\\original_export\\HALGAN_REF005.zip",
+  "source_archive_sha256": "a8f3d170fbb2529d76b086d2b01daa22122a84921a9eadecfff2c1f96169fa70",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Boxer in Blue Shorts\\Athletic Boxer in Blue Shorts.png",
+  "source_image_sha256": "5ec1b1fd14c00d87496ce4a3a22cccae2b5dd94666f5fc0f2d340caf6494d9f7",
+  "triangles": 18571,
+  "vertices": 14096,
+  "materials": 1,
+  "world_bounds_metres": [
+    [
+      -0.501095175743103,
+      0.5010862350463867
+    ],
+    [
+      -0.15466466546058655,
+      0.15459445118904114
+    ],
+    [
+      0.00014772724534850568,
+      1.7996386289596558
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF005_Athletic_Boxer_in_Blue_Shorts\\REF005_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF005_Athletic_Boxer_in_Blue_Shorts\\REF005_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF005_Athletic_Boxer_in_Blue_Shorts\\REF005_CLEAN.fbx",
+  "native_sha256": "b96e15aa5dd2de6738fe979cfd446273f8bfdead9819306ec6e089ff2adf6716",
+  "glb_sha256": "2266598695a80b95050bab76fc7f4e6e1de3b663c180e74106723f4a640adf6b",
+  "fbx_sha256": "2e0f4291a9de13f4b8d4cc944efa145b582eada6298d612b27d0d8735b0a9753",
+  "edits": [
+    "Normalized metres, floor pivot and centered horizontal origin",
+    "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+    "Tuned physically plausible roughness; reduced plastic-like gloss",
+    "Removed spurious metallic response from skin/cloth",
+    "Retained original reference-derived hair/face; rejected extra crown that changed the silhouette"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "visual_review_note": "Static source-relative front/rear review and current native/GLB/FBX imports passed; rigging/deformation/runtime remain pending.",
+  "visual_review_scope": "Static reference-relative front and rear review; no rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T19:49:56.238531+00:00"
+}

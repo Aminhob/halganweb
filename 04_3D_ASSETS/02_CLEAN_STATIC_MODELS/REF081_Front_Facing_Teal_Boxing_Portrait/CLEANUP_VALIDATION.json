@@ -1,0 +1,48 @@
+{
+  "ref": "REF081",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF081_Front_Facing_Teal_Boxing_Portrait\\original_export\\HALGAN_REF081.zip",
+  "source_archive_sha256": "9a02c5f114934fbe6a0ff71664a9beac9b546deca2f27155d4a421571b211553",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Front-Facing Teal Boxing Portrait\\Front-Facing Teal Boxing Portrait.png",
+  "source_image_sha256": "51fc3fd261d13a510e8f348c8eac3ae20ea86d84c3c306536fdcdf8ea709ad91",
+  "triangles": 19073,
+  "vertices": 14796,
+  "materials": 1,
+  "world_bounds_metres": [
+    [
+      -0.5400697588920593,
+      0.5400349497795105
+    ],
+    [
+      -0.1690712869167328,
+      0.16919948160648346
+    ],
+    [
+      0.0001975867635337636,
+      1.7995866537094116
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF081_Front_Facing_Teal_Boxing_Portrait\\REF081_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF081_Front_Facing_Teal_Boxing_Portrait\\REF081_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF081_Front_Facing_Teal_Boxing_Portrait\\REF081_CLEAN.fbx",
+  "native_sha256": "c496ff79c76ddcd3d3f285673cc42e4e0023e05ff6b5415bc407499b82a35aa8",
+  "glb_sha256": "8ba38b9745db2cb60b0556d111f44581eea54d12f0cb2dec075ae3d62a400c40",
+  "fbx_sha256": "008678770b65402434a4993674f8c2ab1104efa7f1844eb66421684c1a57c356",
+  "edits": [
+    "Normalized metres, floor pivot and centered horizontal origin",
+    "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+    "Tuned skin/cloth roughness range to0.38-0.73",
+    "Removed spurious metallic response from skin/cloth"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "visual_review_note": "Static source-relative front/rear review and current native/GLB/FBX imports passed; rigging/deformation/runtime remain pending.",
+  "visual_review_scope": "Static reference-relative front and rear review; no rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T19:49:57.161212+00:00"
+}

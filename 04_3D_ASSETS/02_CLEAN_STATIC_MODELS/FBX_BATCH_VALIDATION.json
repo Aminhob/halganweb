@@ -1,0 +1,270 @@
+{
+  "count": 24,
+  "records": [
+    {
+      "ref": "REF003",
+      "current_fbx_reimported": true,
+      "triangles": 19932,
+      "expected_triangles": 19932,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "3d3f00ac597c1162615f1b4064e1026f0ba97f7d493b2dcde8c0ae3915ee01c1"
+    },
+    {
+      "ref": "REF004",
+      "current_fbx_reimported": true,
+      "triangles": 19716,
+      "expected_triangles": 19716,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 1,
+      "fbx_sha256": "f4611d0cdc1e809debb8f40d038ba48ab96e0c17f67ee58e9b52ef47b4e1d99a"
+    },
+    {
+      "ref": "REF005",
+      "current_fbx_reimported": true,
+      "triangles": 18571,
+      "expected_triangles": 18571,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "2e0f4291a9de13f4b8d4cc944efa145b582eada6298d612b27d0d8735b0a9753"
+    },
+    {
+      "ref": "REF006",
+      "current_fbx_reimported": true,
+      "triangles": 4735,
+      "expected_triangles": 4735,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 2,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "826c00393ddd88d8f7b6f507e8d67b70467170deb4a28c91834c9fda00da7052"
+    },
+    {
+      "ref": "REF007",
+      "current_fbx_reimported": true,
+      "triangles": 19564,
+      "expected_triangles": 19564,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 1,
+      "fbx_sha256": "cee617dcf5eb849d4ce48d7af8ac12976fa76f7bc1c9df0b3e5c9438b032ac2b"
+    },
+    {
+      "ref": "REF008",
+      "current_fbx_reimported": true,
+      "triangles": 24000,
+      "expected_triangles": 24000,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "13087f1580792e1d198614b96e9193c0b9a58d7fe020a611fe6456deb310b7e3"
+    },
+    {
+      "ref": "REF009",
+      "current_fbx_reimported": true,
+      "triangles": 19510,
+      "expected_triangles": 19510,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "967efe7880e997dc0d07796f396dadd870502653e964a40b016a95dcbae6926f"
+    },
+    {
+      "ref": "REF010",
+      "current_fbx_reimported": true,
+      "triangles": 19518,
+      "expected_triangles": 19518,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "074d32d501f61cd7d18ae8d2d55cd41c221c0f2bae4ea4a60dbd51f8d988696f"
+    },
+    {
+      "ref": "REF011",
+      "current_fbx_reimported": true,
+      "triangles": 19510,
+      "expected_triangles": 19510,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 1,
+      "fbx_sha256": "1be3fc4fb727e5ba6271ebb81582cb72d1965cc0b62e8d8bf3eddf670b053be4"
+    },
+    {
+      "ref": "REF012",
+      "current_fbx_reimported": true,
+      "triangles": 18972,
+      "expected_triangles": 18972,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "8be2930098ce1adc55fe2296b67febcb09cbee3a7a586a6045e97ead39310ce2"
+    },
+    {
+      "ref": "REF013",
+      "current_fbx_reimported": true,
+      "triangles": 19522,
+      "expected_triangles": 19522,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "fd9d08ff9a352c323204c696294f517980a7e7e754bb62514e6d05c0eb16d27f"
+    },
+    {
+      "ref": "REF017",
+      "current_fbx_reimported": true,
+      "triangles": 18457,
+      "expected_triangles": 18457,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 5,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "57ba698066d7a0f2328f7c6e053186e78abb36990252357b8f34f1930f8e80b1"
+    },
+    {
+      "ref": "REF044",
+      "current_fbx_reimported": true,
+      "triangles": 40036,
+      "expected_triangles": 40036,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 0,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "baddde61e92ce6bbb3d0fa88bed79f23871823ef2c5741fd30704cfac584cec9"
+    },
+    {
+      "ref": "REF056",
+      "current_fbx_reimported": true,
+      "triangles": 20908,
+      "expected_triangles": 20908,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "c14308e55f4aa5c0d08ea400d4d35ea38e7e8594256b1206de4a8a96dc33181a"
+    },
+    {
+      "ref": "REF057",
+      "current_fbx_reimported": true,
+      "triangles": 19197,
+      "expected_triangles": 19197,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "b536375581f63a8383342d95e3ba099075a0049adc45e36eab12178bde3a72a4"
+    },
+    {
+      "ref": "REF072",
+      "current_fbx_reimported": true,
+      "triangles": 13184,
+      "expected_triangles": 13184,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 0,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "f2690f32cf742667f6adf2da73f71505c497f746bf786a2dd533e90644f0f25c"
+    },
+    {
+      "ref": "REF079",
+      "current_fbx_reimported": true,
+      "triangles": 732,
+      "expected_triangles": 732,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 2,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "fecd9dd532f06c5d11aec886b0d4f2705c9af25b10630d95490d879f375d0dce"
+    },
+    {
+      "ref": "REF081",
+      "current_fbx_reimported": true,
+      "triangles": 19073,
+      "expected_triangles": 19073,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "008678770b65402434a4993674f8c2ab1104efa7f1844eb66421684c1a57c356"
+    },
+    {
+      "ref": "REF082",
+      "current_fbx_reimported": true,
+      "triangles": 19586,
+      "expected_triangles": 19586,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 1,
+      "fbx_sha256": "c245c4d9338c6d60455aaeaa781edba809b3785f53864782c4b600788b98e789"
+    },
+    {
+      "ref": "REF083",
+      "current_fbx_reimported": true,
+      "triangles": 19808,
+      "expected_triangles": 19808,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "98c372da8211e4e446654c0d7efb01d41636c1dbe050f7840cd63c6afd584d8c"
+    },
+    {
+      "ref": "REF084",
+      "current_fbx_reimported": true,
+      "triangles": 5008,
+      "expected_triangles": 5008,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 2,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "5b2d393ff5d78b7a85b95e9797a19896f5d72e5f782d2fd26ec1a3b831b97500"
+    },
+    {
+      "ref": "REF118",
+      "current_fbx_reimported": true,
+      "triangles": 40036,
+      "expected_triangles": 40036,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 0,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "4533ac1847313ce19cc868c90ca9e5e908f90c5b71fc798c7e12f6ef04a7350d"
+    },
+    {
+      "ref": "REF008_LOD1",
+      "current_fbx_reimported": true,
+      "triangles": 12000,
+      "expected_triangles": 12000,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "caf47fe9719cd994f5eb2cd65be0cfb7596522d7cf9675d2333574ab46b920e8"
+    },
+    {
+      "ref": "REF008_LOD2",
+      "current_fbx_reimported": true,
+      "triangles": 4000,
+      "expected_triangles": 4000,
+      "bounds_match_under_3mm": true,
+      "missing_textures": [],
+      "embedded_or_resolved_images": 4,
+      "material_scalar_channels_repacked": 0,
+      "fbx_sha256": "89f88dcd15f005e371a334ad5d78523f7a564cf2e957e94bcca26cbf55864480"
+    }
+  ],
+  "extra_tripo_credits": 0
+}

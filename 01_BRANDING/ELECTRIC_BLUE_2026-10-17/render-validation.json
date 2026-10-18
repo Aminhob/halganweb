@@ -1,0 +1,126 @@
+[
+  {
+    "file": "community-before.png",
+    "status": "PASS",
+    "fontLoaded": true,
+    "loadedFaces": [
+      {
+        "family": "Teko",
+        "weight": "600",
+        "status": "loaded"
+      }
+    ],
+    "texts": [
+      {
+        "text": "COMMUNITY",
+        "weight": "600",
+        "fill": "rgb(244, 245, 247)",
+        "box": {
+          "x": 320.1796875,
+          "y": 566,
+          "width": 440.43994140625,
+          "height": 151,
+          "top": 566,
+          "right": 760.61962890625,
+          "bottom": 717,
+          "left": 320.1796875
+        }
+      }
+    ],
+    "imagesLoaded": true,
+    "allWithinCanvas": true
+  },
+  {
+    "file": "community-after.png",
+    "status": "PASS",
+    "fontLoaded": true,
+    "loadedFaces": [
+      {
+        "family": "Teko",
+        "weight": "600",
+        "status": "loaded"
+      }
+    ],
+    "texts": [
+      {
+        "text": "COMMUNITY",
+        "weight": "600",
+        "fill": "rgb(244, 245, 247)",
+        "box": {
+          "x": 320.1796875,
+          "y": 566,
+          "width": 440.43994140625,
+          "height": 151,
+          "top": 566,
+          "right": 760.61962890625,
+          "bottom": 717,
+          "left": 320.1796875
+        }
+      }
+    ],
+    "imagesLoaded": true,
+    "allWithinCanvas": true
+  },
+  {
+    "file": "updates-before.png",
+    "status": "PASS",
+    "fontLoaded": true,
+    "loadedFaces": [
+      {
+        "family": "Teko",
+        "weight": "600",
+        "status": "loaded"
+      }
+    ],
+    "texts": [
+      {
+        "text": "UPDATES",
+        "weight": "600",
+        "fill": "rgb(244, 245, 247)",
+        "box": {
+          "x": 375.359375,
+          "y": 566,
+          "width": 329.28125,
+          "height": 151,
+          "top": 566,
+          "right": 704.640625,
+          "bottom": 717,
+          "left": 375.359375
+        }
+      }
+    ],
+    "imagesLoaded": true,
+    "allWithinCanvas": true
+  },
+  {
+    "file": "updates-after.png",
+    "status": "PASS",
+    "fontLoaded": true,
+    "loadedFaces": [
+      {
+        "family": "Teko",
+        "weight": "600",
+        "status": "loaded"
+      }
+    ],
+    "texts": [
+      {
+        "text": "UPDATES",
+        "weight": "600",
+        "fill": "rgb(244, 245, 247)",
+        "box": {
+          "x": 375.359375,
+          "y": 566,
+          "width": 329.28125,
+          "height": 151,
+          "top": 566,
+          "right": 704.640625,
+          "bottom": 717,
+          "left": 375.359375
+        }
+      }
+    ],
+    "imagesLoaded": true,
+    "allWithinCanvas": true
+  }
+]

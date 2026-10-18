@@ -1,0 +1,43 @@
+{
+  "ref": "REF008_LOD2",
+  "status": "CLEANUP_EXPORTED_VISUAL_REVIEW_PENDING",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\original_export\\HALGAN_REF008_existing.zip",
+  "source_archive_sha256": "03fc67b67ececb8162eb5f6f2cb9e93acc65abf84cb2f55b1f8fd3eb3ea8c0f6",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Man in Purple Boxing Shorts\\Athletic Man in Purple Boxing Shorts.png",
+  "source_image_sha256": "7d613997537b94a83af4d2ea42ebdf26acc82895e349a6b3c4281efa60af18a2",
+  "triangles": 4000,
+  "vertices": 3123,
+  "materials": 1,
+  "world_bounds_metres": [
+    [
+      -0.5163106918334961,
+      0.5154162645339966
+    ],
+    [
+      -0.16861321032047272,
+      0.1705411970615387
+    ],
+    [
+      0.0011990551138296723,
+      1.7992563247680664
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\LOD2\\REF008_LOD2_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\LOD2\\REF008_LOD2_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\LOD2\\REF008_LOD2_CLEAN.fbx",
+  "native_sha256": "2c49aeeaa781041d0e132e341b9a112f72a192769566adb3aaad1b5070822886",
+  "glb_sha256": "3ab079d6e025f4c08afc9f9c7a0535077e9a0a58b8507fc68a59b8f643a5b80b",
+  "fbx_sha256": "89f88dcd15f005e371a334ad5d78523f7a564cf2e957e94bcca26cbf55864480",
+  "edits": [
+    "Derived from24k LOD0 with original UV/material/identity retained",
+    "Intended maximum approximate screen height 100pixels; runtime LOD switching/performance not tested"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": []
+}

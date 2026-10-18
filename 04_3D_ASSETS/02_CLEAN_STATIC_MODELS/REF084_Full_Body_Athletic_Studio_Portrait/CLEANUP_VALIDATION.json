@@ -1,0 +1,46 @@
+{
+  "ref": "REF084",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF084_Full_Body_Athletic_Studio_Portrait\\original_export\\HALGAN_REF084_existing.zip",
+  "source_archive_sha256": "e87689a11dbd83948a328d93633f5bbeb7dbe1a3b0c9bf6ae66bbe4a86c9563b",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Full-Body Athletic Studio Portrait\\Full-Body Athletic Studio Portrait.png",
+  "source_image_sha256": "74e4829fc7e564dd95acc08060c4147ca32e7b1cf4e7a3207770f6f248e09c78",
+  "triangles": 5008,
+  "vertices": 6187,
+  "materials": 1,
+  "world_bounds_metres": [
+    [
+      -0.5649455189704895,
+      0.565025806427002
+    ],
+    [
+      -0.1631307154893875,
+      0.1623375117778778
+    ],
+    [
+      0.00025869274395518005,
+      1.7998242378234863
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF084_Full_Body_Athletic_Studio_Portrait\\REF084_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF084_Full_Body_Athletic_Studio_Portrait\\REF084_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF084_Full_Body_Athletic_Studio_Portrait\\REF084_CLEAN.fbx",
+  "native_sha256": "4b13308791bc8641b2e33fc1d97c5cb1b04131f08a244e3aff2c0e240eedb88a",
+  "glb_sha256": "5bf484b86c48c7b0dbc4b89162ee22c0cd05723eeecccf69b0d11223360ff286",
+  "fbx_sha256": "5b2d393ff5d78b7a85b95e9797a19896f5d72e5f782d2fd26ec1a3b831b97500",
+  "edits": [
+    "Normalized metres, floor pivot and centered horizontal origin",
+    "Merged coincident vertices, removed loose wire vertices and recalculated normals"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "visual_review_note": "Static source-relative front/rear review and current native/GLB/FBX imports passed; rigging/deformation/runtime remain pending.",
+  "visual_review_scope": "Static reference-relative front and rear review; no rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T19:49:57.382592+00:00"
+}

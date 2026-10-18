@@ -1,0 +1,46 @@
+{
+  "ref": "REF079",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF079_Framed_Red_Shadow_Boxer\\original_export\\HALGAN_REF079.zip",
+  "source_archive_sha256": "807080dd6da5db922118b813134ec1dcd175677215466f595edba20d5f3f32fc",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Framed Red Shadow Boxer\\Framed Red Shadow Boxer.png",
+  "source_image_sha256": "53cefb40e972abf160249814012978edb1ccdda549778454034032cb5b77158a",
+  "triangles": 732,
+  "vertices": 1197,
+  "materials": 3,
+  "world_bounds_metres": [
+    [
+      -0.3370000123977661,
+      0.3370000123977661
+    ],
+    [
+      -0.03099999949336052,
+      0.019500000402331352
+    ],
+    [
+      -0.009000003337860107,
+      0.9990000128746033
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF079_Framed_Red_Shadow_Boxer\\REF079_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF079_Framed_Red_Shadow_Boxer\\REF079_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF079_Framed_Red_Shadow_Boxer\\REF079_CLEAN.fbx",
+  "native_sha256": "e7170f7a8dbd5af708ba58ddc5342b7e421375f1d80653c8b220b9cece8f6000",
+  "glb_sha256": "a8a593b776dee4696bc05d21ad0858799b6bdb5947fb999c68d4b7ff1b2030c1",
+  "fbx_sha256": "fecd9dd532f06c5d11aec886b0d4f2705c9af25b10630d95490d879f375d0dce",
+  "edits": [
+    "Rebuilt flat backing and straight beveled frame; removed all raised boxer/reverse bulges",
+    "Original source artwork mapped onto flat printed panel with projective UV correction; no regenerated artwork"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "visual_review_note": "Static source-relative front/rear review and current native/GLB/FBX imports passed; rigging/deformation/runtime remain pending.",
+  "visual_review_scope": "Static reference-relative front and rear review; no rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T19:49:57.082062+00:00"
+}

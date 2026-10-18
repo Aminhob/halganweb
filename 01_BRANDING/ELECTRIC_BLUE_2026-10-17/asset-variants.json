@@ -1,0 +1,16 @@
+[
+  {
+    "name": "community",
+    "source": "02_SOCIAL_MEDIA\\HALGAN_OFFICIAL_SOCIAL_MEDIA_2026\\06_EDITABLE_SOURCES\\HALGAN_highlight_community_1080.svg",
+    "changed_element": "Existing 170 x 7 underline; red circle and embedded logo preserved",
+    "text_weight": 600,
+    "font": "Packaged Teko-SemiBold WOFF, same in both renders"
+  },
+  {
+    "name": "updates",
+    "source": "02_SOCIAL_MEDIA\\HALGAN_OFFICIAL_SOCIAL_MEDIA_2026\\06_EDITABLE_SOURCES\\HALGAN_highlight_updates_1080.svg",
+    "changed_element": "Existing 170 x 7 underline; red circle and embedded logo preserved",
+    "text_weight": 600,
+    "font": "Packaged Teko-SemiBold WOFF, same in both renders"
+  }
+]

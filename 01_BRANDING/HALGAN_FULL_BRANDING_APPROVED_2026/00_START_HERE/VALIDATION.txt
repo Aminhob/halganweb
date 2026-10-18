@@ -1,0 +1,2 @@
+Passed: 265 manifest entries; all file hashes; PNG decode; SVG parsing; embedded Teko font in all 67 layouts; Chromium export and font/boundary audit; five static Teko weights; full variable TTF; SIL OFL 1.1 license; unchanged approved source hashes; nine-page PDF rendered and visually reviewed; final ZIP CRC checked.
+Official font approved by user: Teko, 2026-10-14.

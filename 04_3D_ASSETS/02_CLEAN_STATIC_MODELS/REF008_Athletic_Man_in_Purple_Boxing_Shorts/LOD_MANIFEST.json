@@ -1,0 +1,19 @@
+{
+  "LOD0": 24000,
+  "additional_levels": [
+    {
+      "level": "LOD1",
+      "triangles": 12000,
+      "target_screen_height_pixels": 240,
+      "folder": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\LOD1"
+    },
+    {
+      "level": "LOD2",
+      "triangles": 4000,
+      "target_screen_height_pixels": 100,
+      "folder": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\LOD2"
+    }
+  ],
+  "rigging_and_device_performance": "PENDING",
+  "extra_tripo_credits": 0
+}

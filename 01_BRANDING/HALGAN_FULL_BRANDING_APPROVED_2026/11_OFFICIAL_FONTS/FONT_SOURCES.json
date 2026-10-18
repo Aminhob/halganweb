@@ -1,0 +1,16 @@
+{
+  "family": "Teko",
+  "approved_on": "2026-10-14",
+  "license": "SIL Open Font License 1.1",
+  "variable_source": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/teko/Teko%5Bwght%5D.ttf",
+  "license_source": "https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/teko/OFL.txt",
+  "static_source": "https://cdn.jsdelivr.net/npm/@fontsource/teko/files/teko-latin-{weight}-normal.woff",
+  "static_coverage": "Latin subset",
+  "roles": {
+    "headline": 700,
+    "navigation": 600,
+    "stats": 500,
+    "body": 400,
+    "display_light": 300
+  }
+}

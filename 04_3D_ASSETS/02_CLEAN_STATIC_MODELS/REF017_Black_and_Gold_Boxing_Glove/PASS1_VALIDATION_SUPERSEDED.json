@@ -1,0 +1,42 @@
+{
+  "ref": "REF017",
+  "status": "CLEANUP_EXPORTED_VISUAL_REVIEW_PENDING",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF017_Black_and_Gold_Boxing_Glove\\original_export\\HALGAN_REF017.zip",
+  "source_archive_sha256": "c4cf8a11b772f651f55cf51bd6cb1276510858d32376c294b99e0de1d15a2387",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Black and Gold Boxing Glove\\Black and Gold Boxing Glove.png",
+  "source_image_sha256": "e924e2664095b03f75ebdbf50c222620e2aeefc7f31d2997702ee0377c6bf83c",
+  "triangles": 18457,
+  "vertices": 13036,
+  "materials": 2,
+  "world_bounds_metres": [
+    [
+      -0.10057014971971512,
+      0.10059560090303421
+    ],
+    [
+      -0.0865364670753479,
+      0.08652656525373459
+    ],
+    [
+      0.00011571888899197802,
+      0.3099689781665802
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF017_Black_and_Gold_Boxing_Glove\\REF017_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF017_Black_and_Gold_Boxing_Glove\\REF017_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF017_Black_and_Gold_Boxing_Glove\\REF017_CLEAN.fbx",
+  "native_sha256": "6a4b912c5bc60ab3e4d3e467f460f7b9b80428748ed77538b00e4af2dcea0191",
+  "glb_sha256": "8e456cd21b4dda7d2d1c4f8403b805578f31f16e118d23ad95a79b3787ba40a2",
+  "fbx_sha256": "657072c2b3513dfcf515531002e922f5946cf055f6b8b0c80f302292c62ebc2a",
+  "edits": [
+    "Normalized metres, floor pivot and centered horizontal origin",
+    "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+    "Opened compatible32mm-radius wrist socket0.105m deep; padded knuckle remains closed"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0
+}

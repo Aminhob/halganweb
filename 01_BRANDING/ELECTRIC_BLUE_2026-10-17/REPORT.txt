@@ -1,0 +1,64 @@
+HALGAN — ELECTRIC BLUE BRAND ASSET UPDATE
+17 October 2026
+
+OWNER SCOPE
+Brand assets only for now. The identified Unity project is
+C:\Users\pc\Downloads\halgangame-git-continuity.
+No Unity project, gameplay, prefab, material, scene, navigation or device was modified.
+
+AUDIT
+Existing approved kit tokens: Punch Red #E50909 (primary), Black #090A0D,
+Charcoal #171A20, Silver #C8CBD0, White #F4F5F7, Muted #A5ABB6.
+The inspected Unity theme uses Crimson #A8152D; that separate existing value
+was preserved. Supporting reference colors #141922 and #E8EDF5 were not adopted.
+
+IMPLEMENTATION
+Canonical token: colors.electric_blue in
+01_BRANDING/HALGAN_FULL_BRANDING_APPROVED_2026/09_EDITABLE_SOURCES/brand_tokens.json.
+CSS token: --halgan-electric-blue; secondary semantic alias: --halgan-secondary.
+The existing two social token copies are synchronized. Primary remains punch_red.
+Blue is reserved for social/online/multiplayer/technology and selected interaction
+accents; review gameplay meaning before any future Unity use.
+
+Existing Community and Updates highlight layouts have two additive blue variants
+in assets/. Only the existing 170x7 underline changes from red to blue. The logo,
+red circle, text, dimensions and component geometry are preserved. These are
+actual existing branding layouts, not invented game UI or a logo redesign.
+Comparisons rerender both versions with the same packaged Teko-SemiBold WOFF.
+Original existing exports remain byte-for-byte intact.
+
+TYPOGRAPHY
+Current tokens, font guidance and generators now use only Regular, Medium,
+Light and SemiBold. Headlines use SemiBold 600. Renderers reject unapproved
+weights. Teko-Bold files and historical artwork are retained as original source
+material, not approved for new use. Existing legacy exports with weight 700 and
+the old PDF guide have NOT been reissued or certified under the new font policy.
+See legacy-typography-inventory.json before reusing older marketing exports.
+
+CONTRAST AND VISUAL RULES
+Existing white on Electric Blue: 3.98:1; avoid normal-size white text on solid blue.
+Electric Blue on existing charcoal: 4.02:1; suitable for the non-text accent used
+here (3:1 target), below the 4.5:1 normal text target.
+Electric Blue on existing black: 4.56:1. This is a narrow margin; reevaluate
+hover, pressed, disabled, opacity and compositing before using it for text.
+New exports retain the existing readable white-on-charcoal label.
+Do not add gradients, glow, extra decoration, or recolor health/stamina/currency/
+rarity/fighter-side states. Preserve logo, mascot and app icon without alteration.
+
+VALIDATION
+All 380 protected visual/font files match their original SHA-256 values.
+Four existing-layout SVGs rendered at 1080x1080; actual SemiBold face loaded;
+text stays within the image. Both before/after pixel diffs are confined to
+(455,525)-(625,532), exactly 1190 Electric Blue pixels per asset.
+All six original palette values preserved. Three existing token systems agree.
+Updated generator ASTs parse; actual default font helpers resolve to SemiBold.
+Canonical manifest hashes and modified-file ledger checked. Full generator
+regeneration was not run. Validation details: validation.json and
+render-validation.json. Exact changed files: changes.json. Backups: originals/.
+
+DEFERRED AT OWNER REQUEST
+Real Home/Lobby, multiplayer, profile and ranking UI comparisons; Unity
+compilation; gameplay regression, touch-state and Android landscape checks.
+No PASS is claimed for these. No app icon alternative was generated or adopted.
+No outstanding approval is needed for these local asset additions. Unity
+integration and legacy-export reissue require a later requested scope.

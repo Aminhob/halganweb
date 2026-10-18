@@ -1,0 +1,50 @@
+{
+  "ref": "REF082",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\original_export\\HALGAN_REF082.zip",
+  "source_archive_sha256": "e355dc3eb7ae6662ab0be166c7c8de8186f48506c6a0a01fea289f649d37391f",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Full-Body Athlete in Maroon Shorts\\Full-Body Athlete in Maroon Shorts.png",
+  "source_image_sha256": "861c7be4b9e7afdb74cfa3853ae591d4a0a7572442ab0b793b17dacbfd70d4a8",
+  "triangles": 19586,
+  "vertices": 14903,
+  "materials": 1,
+  "world_bounds_metres": [
+    [
+      -0.4630470275878906,
+      0.463021457195282
+    ],
+    [
+      -0.15138298273086548,
+      0.15166349709033966
+    ],
+    [
+      7.805032510077581e-05,
+      1.7998244762420654
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\REF082_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\REF082_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\REF082_CLEAN.fbx",
+  "native_sha256": "f408f00411f6b64e5048c6c1cf4bd6377981cb4203aa5d9dc50a87ef77902d64",
+  "glb_sha256": "3f25e1efa9d42e19f1c5186a32a1740ff758ce84c1319e985ad47bc8aa399d6b",
+  "fbx_sha256": "c245c4d9338c6d60455aaeaa781edba809b3785f53864782c4b600788b98e789",
+  "edits": [
+    "Normalized metres, floor pivot and centered horizontal origin",
+    "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+    "Tuned physically plausible roughness; reduced plastic-like gloss",
+    "Removed spurious metallic response from skin/cloth",
+    "Retained original reference-derived hair/face; rejected extra crown that changed the silhouette",
+    "Canonicalized subpixel duplicate export faces"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "visual_review_note": "Static source-relative front/rear review and current native/GLB/FBX imports passed; rigging/deformation/runtime remain pending.",
+  "visual_review_scope": "Static reference-relative front and rear review; no rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T19:49:57.258621+00:00"
+}

@@ -1,0 +1,222 @@
+{
+  "REF003": {
+    "status": "PASS",
+    "glb_sha256": "7d1f972c4a122de92281ed084ae24234a7400c7394f614a157c5a4177ad8e1d4",
+    "render_sha256": {
+      "AFTER_FRONT.png": "b8afcd8d3be00c9d5e15cf0277c4bc6c283dcd70ea47bdd5241f6e522f5a6135",
+      "AFTER_REAR.png": "57512d9d65c1aec471bfd25b46649d60d3b4e728c6c711b739bb88ebadc355ea"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.114841+00:00"
+  },
+  "REF004": {
+    "status": "PASS",
+    "glb_sha256": "66444f43f256a81744c60511e23c2da21f9d258efd8c9feebef7098c73c06726",
+    "render_sha256": {
+      "AFTER_FRONT.png": "f990ee3df215115a9e626a3e31918d0733e575a30b4f66620cf8d6a7de8e7e4a",
+      "AFTER_REAR.png": "f38aa400d1313133c1bbe25b8a2a84835093fdd73e9bab8f16a3c92f6799dbee"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.173617+00:00"
+  },
+  "REF005": {
+    "status": "PASS",
+    "glb_sha256": "2266598695a80b95050bab76fc7f4e6e1de3b663c180e74106723f4a640adf6b",
+    "render_sha256": {
+      "AFTER_FRONT.png": "fc6cb70d3bd56abfb482bf9aeff430eaf37fa78cb5e2f1c95f071f9ce4c3711b",
+      "AFTER_REAR.png": "4fca50d09b8b1684687344b05b991082b83513a1face436d2519c67b088dabe8"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.238531+00:00"
+  },
+  "REF006": {
+    "status": "PASS",
+    "glb_sha256": "b73a45d0b07796f7ca34afe58240809d5d49f582bb313bd833e528ac90dded6c",
+    "render_sha256": {
+      "AFTER_FRONT.png": "aa8ae7cadea5f0de2c003630a323fa58535759c350fa7e29c4f6e206df3e6478",
+      "AFTER_REAR.png": "46dc8557f8c074b507a531291dc3b25b9f4b0cfec7f891a88f6de160397b9ffc"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.309773+00:00"
+  },
+  "REF007": {
+    "status": "PASS",
+    "glb_sha256": "f9e5f270e37cae8db9b5d1e4c8bbe0df9364a023fb26b1e16900b5188a7de349",
+    "render_sha256": {
+      "AFTER_FRONT.png": "d5b11a211ec8348df177065d0c3b1612e9a0495700001c823fcb420dc1d40fc8",
+      "AFTER_REAR.png": "09fbda982bf954b82fb04ef0b33da1ca037596f3fd6c3287702b4aa734ea0bd6"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.363532+00:00"
+  },
+  "REF008": {
+    "status": "PASS",
+    "glb_sha256": "3483717de01789e2f8f378e3a9ff78c1e6ca773665892135f3a4352da0c27dba",
+    "render_sha256": {
+      "AFTER_FRONT.png": "6dddf263ae3b3810afd58cecbbbdf87bf83d38cc4528eb77b70e55874d894c3d",
+      "AFTER_REAR.png": "e523c1e85c3716365319020a5204d236e755b47761ecab5aabcfa05116814321"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.423124+00:00"
+  },
+  "REF009": {
+    "status": "PASS",
+    "glb_sha256": "e4d7cd13d36327eb2487cdf040f1a8b9ff13eae3a492308d8b9db19bde8a7e90",
+    "render_sha256": {
+      "AFTER_FRONT.png": "bef9bd5c4c7bf42e204b771594e865d4b3a89d278ea8809336f3d4b05afb3e0c",
+      "AFTER_REAR.png": "649c22758a078ac666760edf9d509496829ef9a851b9bab5ed5de2e7c10ef893"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.485227+00:00"
+  },
+  "REF010": {
+    "status": "PASS",
+    "glb_sha256": "8422cdded53313953ed8dc022f42a70e087990aa8e870946b6777bc50064619a",
+    "render_sha256": {
+      "AFTER_FRONT.png": "f90b68e03d41d55e1a0aac76487e695e083457a96ffb112a82708407575a1843",
+      "AFTER_REAR.png": "eddcc0a9f601573a3d74f5f959880d44f2dadf9a92b05273a74d0aa1f4d15747"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.542984+00:00"
+  },
+  "REF011": {
+    "status": "PASS",
+    "glb_sha256": "9621e152f1754944e024f3c5ca71182125ba9eba6e132d067e8da50b81cc114e",
+    "render_sha256": {
+      "AFTER_FRONT.png": "1d04657ef8a791dce84c415fd496562a3ce74b6aea3cc18c608e97fd0efe3a0d",
+      "AFTER_REAR.png": "074521df3161f2ff7be39a821ecb0df5650eb8ae381a60559db69e7d290d7759"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.600838+00:00"
+  },
+  "REF012": {
+    "status": "PASS",
+    "glb_sha256": "34f378dbd6104b82c5b7b120dc14eb3ac88b896956f10c74f957ffb1fba56030",
+    "render_sha256": {
+      "AFTER_FRONT.png": "44e35db3e52eb38dbe5c2f9a7b215a2ec18d418e9d3083237da84688a3e273d1",
+      "AFTER_REAR.png": "08475041b2da16bdf9aed740418af84166b6b550b8131702a2f027bb5415a0b0"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.689121+00:00"
+  },
+  "REF013": {
+    "status": "PASS",
+    "glb_sha256": "eea195679a8202a6b9daeac53e86ea75da7cb2ba0aad2d9750584904f9bd6e30",
+    "render_sha256": {
+      "AFTER_FRONT.png": "58c457736b576555f85162b135ecf5ec881436364e0490fd571b370c9e9a8d7d",
+      "AFTER_REAR.png": "d8b8a41dd61bff4480803e2c5780ea1e31ab6295b5a0a8f847304387be718c14"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.790056+00:00"
+  },
+  "REF017": {
+    "status": "PASS",
+    "glb_sha256": "ec4e5ee02a1cf87402b42aaba2e7a3a80c710594289c76f9b308300bf21fe6d0",
+    "render_sha256": {
+      "AFTER_FRONT.png": "010d4235ec63f2a129f86b631573898f629f673001b4e680f3a5265424492ffa",
+      "AFTER_REAR.png": "963e1d9000dc9c58bd9f6fee096a72afaa8cbb96c913c93796c18f6089aa0a13"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.863618+00:00"
+  },
+  "REF044": {
+    "status": "PASS",
+    "glb_sha256": "f0f854db43a24be39921398ee74219b9667b5b163b281bf0ff2242428138681f",
+    "render_sha256": {
+      "AFTER_FRONT.png": "5732f09634a2226e219462d66056deee20b196c5e61ec57d3bc2cfc7ab0a86b9",
+      "AFTER_REAR.png": "d4f8c318c00d01e97e5b548e1614605fefde910de5cec0473ec48b9841a128c4"
+    },
+    "scope": "Current GLB front/rear and current FBX front reviewed against original source; static reference identity/proportions/materials and absence of generated underarm damage; no bodyfit/rig/runtime approval",
+    "reviewed_utc": "2026-10-18T20:04:08.510328+00:00"
+  },
+  "REF056": {
+    "status": "PASS",
+    "glb_sha256": "4c4eb4c72a3db5c5e7aec6191ce46e7426b84307e17e2b4cefb5ba36ea69e96b",
+    "render_sha256": {
+      "AFTER_FRONT.png": "8da54bbcd3d6d5b091faac30f97311fe6a822866b483d9e300c01d933076d665",
+      "AFTER_REAR.png": "a7ceb5aab4615f69690c50693e373feb834d5a63400aa2d916da20ec3a93b1ce"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.895303+00:00"
+  },
+  "REF057": {
+    "status": "PASS",
+    "glb_sha256": "f585015ed764b76e8b6abee2eb6e6c7f95ef9d5f914a35a8d600d57309101a9c",
+    "render_sha256": {
+      "AFTER_FRONT.png": "063e52fecdab88aa072cefda856d5ccee328e7ac7ee2823aa24428357cf7df02",
+      "AFTER_REAR.png": "50a227c9a702b65a9cfaf8ee875cd62bec016846600741378da52a37aa413f08"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:56.967318+00:00"
+  },
+  "REF072": {
+    "status": "PASS",
+    "glb_sha256": "71ada5218fd4ba49aa396d2df1ee61dcd449e9411bc1d3b8f63698ae062f5f64",
+    "render_sha256": {
+      "AFTER_FRONT.png": "3cb76516506db780b4688278a5513c0b71855cc962778fac243e6d815a345cc3",
+      "AFTER_REAR.png": "bfe3acb87845248bb99168bb2677bce7cde295dd4b36130ef4986456850a9a4a"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:57.012540+00:00"
+  },
+  "REF079": {
+    "status": "PASS",
+    "glb_sha256": "a8a593b776dee4696bc05d21ad0858799b6bdb5947fb999c68d4b7ff1b2030c1",
+    "render_sha256": {
+      "AFTER_FRONT.png": "6a03abf36b85e2f05579fea9ae7d7cba71ae2f38358c7b22ef5d9afff1fcd0d5",
+      "AFTER_REAR.png": "4ed42bd162cf829d6fab22c22bb27792aa38870199130fdda69adbb7fb194a8c"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:57.082062+00:00"
+  },
+  "REF081": {
+    "status": "PASS",
+    "glb_sha256": "8ba38b9745db2cb60b0556d111f44581eea54d12f0cb2dec075ae3d62a400c40",
+    "render_sha256": {
+      "AFTER_FRONT.png": "465824bf4f500f786cb3e4626c9c104acca3d714e17ccd0c2f6e85c5d9505adf",
+      "AFTER_REAR.png": "1908549cee082d55e5f6dd524f0f66f2bb9549e38ce5785a2c02b9a21d2ea125"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:57.161212+00:00"
+  },
+  "REF082": {
+    "status": "PASS",
+    "glb_sha256": "3f25e1efa9d42e19f1c5186a32a1740ff758ce84c1319e985ad47bc8aa399d6b",
+    "render_sha256": {
+      "AFTER_FRONT.png": "edbf9f1d371a0ef9fa0d1de75542105db6b87ab3f95d1f142f374d0f9fde7476",
+      "AFTER_REAR.png": "2f2f95a9ca47da7cfbf45dc4974ea29de0f085cb23402b4960d17babf561dbd5"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:57.258621+00:00"
+  },
+  "REF083": {
+    "status": "PASS",
+    "glb_sha256": "b03575c6ccab67934ede309c4af36ad97e139d7365d071a27cc64961bc790477",
+    "render_sha256": {
+      "AFTER_FRONT.png": "56018adaded93b774056975b6dfb57408c19fc12d2d1ffe636e3b52f3885e474",
+      "AFTER_REAR.png": "d52b3ed9e9f283ffb17d1522f15b409d2246050c076d429b7b66018b11f0098c"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:57.321461+00:00"
+  },
+  "REF084": {
+    "status": "PASS",
+    "glb_sha256": "5bf484b86c48c7b0dbc4b89162ee22c0cd05723eeecccf69b0d11223360ff286",
+    "render_sha256": {
+      "AFTER_FRONT.png": "40e0a165658cb0999964a116d96d914e9fb901aa86aebf93296bc8dda5ed5f6e",
+      "AFTER_REAR.png": "e86f033639fbc6e6e6f55665940347cfeec8070c4729a919053fc1d446e1b03f"
+    },
+    "scope": "Static reference-relative front and rear review; no rig/runtime approval",
+    "reviewed_utc": "2026-10-18T19:49:57.382592+00:00"
+  },
+  "REF118": {
+    "status": "PASS",
+    "glb_sha256": "1df7db9acefc6a31ee1244b336fb8f5ce9e54bbe7e17515506f7d281bc063c89",
+    "render_sha256": {
+      "AFTER_FRONT.png": "ce41fd1396d88411c8b0cdb0ac1cd31057e8c6709775b1c56e958f5d52e76d6d",
+      "AFTER_REAR.png": "c311b236bd643fb6c576fd649ec05cc8351f0532f619cba92509c3eb7e5c1fa4"
+    },
+    "scope": "Current GLB front/rear and current FBX front reviewed against original source; static reference identity/proportions/materials and absence of generated underarm damage; no bodyfit/rig/runtime approval",
+    "reviewed_utc": "2026-10-18T20:04:08.696207+00:00"
+  }
+}

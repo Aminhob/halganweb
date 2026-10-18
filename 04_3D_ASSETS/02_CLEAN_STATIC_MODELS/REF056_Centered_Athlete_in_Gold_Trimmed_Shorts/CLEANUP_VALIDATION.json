@@ -1,0 +1,51 @@
+{
+  "ref": "REF056",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\original_export\\HALGAN_REF056.zip",
+  "source_archive_sha256": "428f322eb23fcbac9c51dc783be59818621e6249a4e5c17511d2bb8fbd475407",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Centered Athlete in Gold-Trimmed Shorts\\Centered Athlete in Gold-Trimmed Shorts.png",
+  "source_image_sha256": "a49b9e3f40e88ca1677367e5da67396752179a23a33d058e4fc2f66ee478b795",
+  "triangles": 20908,
+  "vertices": 16423,
+  "materials": 2,
+  "world_bounds_metres": [
+    [
+      -0.49823570251464844,
+      0.49814707040786743
+    ],
+    [
+      -0.16750097274780273,
+      0.1675785928964615
+    ],
+    [
+      0.00012243485252838582,
+      1.7997936010360718
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\REF056_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\REF056_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\REF056_CLEAN.fbx",
+  "native_sha256": "dc353a08f9570edf7435b700b322e116f0e7fcaba90cf54cb427da2132437af6",
+  "glb_sha256": "4c4eb4c72a3db5c5e7aec6191ce46e7426b84307e17e2b4cefb5ba36ea69e96b",
+  "fbx_sha256": "c14308e55f4aa5c0d08ea400d4d35ea38e7e8594256b1206de4a8a96dc33181a",
+  "edits": [
+    "Normalized metres, floor pivot and centered horizontal origin",
+    "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+    "Tuned physically plausible roughness; reduced plastic-like gloss",
+    "Removed spurious metallic response from skin/cloth",
+    "Authored fitted50mm gold waistband facing along measured source cloth band; no skin recolouring",
+    "Seated gold facing over the original waistband rather than above it",
+    "Gold facing sampled along five height rings with6mm cloth clearance to remove body poke-through"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "visual_review_note": "Static source-relative front/rear review and current native/GLB/FBX imports passed; rigging/deformation/runtime remain pending.",
+  "visual_review_scope": "Static reference-relative front and rear review; no rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T19:49:56.895303+00:00"
+}

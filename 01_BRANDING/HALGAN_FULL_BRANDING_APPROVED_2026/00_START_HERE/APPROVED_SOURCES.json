@@ -1,0 +1,27 @@
+{
+  "metallic": {
+    "file": "C:\\Users\\pc\\Downloads\\Halgan Boxing Game Logo Cutout.png",
+    "sha256": "c9db836d3a61e971912b944160f50cd81b8ef4048d353f252088ed19d7512756",
+    "size": [
+      2164,
+      727
+    ]
+  },
+  "monochrome": {
+    "file": "C:\\Users\\pc\\Downloads\\Halgan Boxing Game Logo (1).png",
+    "sha256": "2a6a6433ef3acab133595e6c3d8318ba4cc68540579c572b07b896467fbd99c3",
+    "size": [
+      1672,
+      941
+    ]
+  },
+  "icon": {
+    "file": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\01_BRANDING\\ICONS_FINAL_V2\\halgan-icon-master.png",
+    "sha256": "6b5705f90c216a2308e417d5aabf08574e15146d03d96b306a4742ea7542973c",
+    "size": [
+      1254,
+      1254
+    ],
+    "version": "FINAL_V2; selected by owner"
+  }
+}

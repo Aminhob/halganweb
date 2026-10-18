@@ -1,0 +1,20 @@
+@font-face { font-family: "Teko"; font-style: normal; font-weight: 300; font-display: swap; src: url("../08_FONTS/web/teko-latin-300-normal.woff") format("woff"); }
+@font-face { font-family: "Teko"; font-style: normal; font-weight: 400; font-display: swap; src: url("../08_FONTS/web/teko-latin-400-normal.woff") format("woff"); }
+@font-face { font-family: "Teko"; font-style: normal; font-weight: 500; font-display: swap; src: url("../08_FONTS/web/teko-latin-500-normal.woff") format("woff"); }
+@font-face { font-family: "Teko"; font-style: normal; font-weight: 600; font-display: swap; src: url("../08_FONTS/web/teko-latin-600-normal.woff") format("woff"); }
+:root {
+  --halgan-black: #090A0D;
+  --halgan-charcoal: #171A20;
+  --halgan-punch-red: #E50909;
+  --halgan-electric-blue: #1677E8;
+  --halgan-primary: var(--halgan-punch-red);
+  --halgan-secondary: var(--halgan-electric-blue);
+  --halgan-silver: #C8CBD0;
+  --halgan-white: #F4F5F7;
+  --halgan-muted: #A5ABB6;
+  --halgan-font-family: "Teko", sans-serif;
+  --halgan-headline-weight: 600;
+  --halgan-navigation-weight: 600;
+  --halgan-stats-weight: 500;
+  --halgan-body-weight: 400;
+}

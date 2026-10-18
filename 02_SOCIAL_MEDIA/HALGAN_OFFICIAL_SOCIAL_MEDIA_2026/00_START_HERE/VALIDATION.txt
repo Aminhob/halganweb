@@ -1,0 +1,1 @@
+Passed: 112 file hashes; 35 PNG export decodes; embedded Teko fonts; SVG/XML; Chromium text/font/boundary audit; avatar circle crop; YouTube safe-area crop; Facebook desktop/mobile crops; portrait crops; complete visual export review; ZIP CRC.

@@ -1,0 +1,9 @@
+{
+  "ref": "REF044",
+  "native_sha256": "b2c14ab8cc0f70c1c45c5ac7ef0b98a51aa65b025e8854ce446baee0adfc6783",
+  "connected_torso_sleeves_hood_components": 1,
+  "nonmanifold_main_shell_edges": 0,
+  "degenerate_main_shell_faces": 0,
+  "lining_thickness_and_open_cuffs": true,
+  "rigging_bodyfit_deformation": "PENDING"
+}

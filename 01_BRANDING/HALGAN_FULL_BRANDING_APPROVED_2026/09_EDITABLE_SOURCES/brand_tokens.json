@@ -1,0 +1,45 @@
+{
+  "colors": {
+    "black": "#090A0D",
+    "charcoal": "#171A20",
+    "punch_red": "#E50909",
+    "silver": "#C8CBD0",
+    "white": "#F4F5F7",
+    "muted": "#A5ABB6",
+    "electric_blue": "#1677E8"
+  },
+  "supporting_typography": {
+    "headline": "Teko SemiBold",
+    "body": "Teko Regular"
+  },
+  "logo_type": "Approved raster artwork. Never typeset the HALGAN logo.",
+  "official_typography": {
+    "family": "Teko",
+    "approved_on": "2026-10-14",
+    "headline_weight": 600,
+    "navigation_weight": 600,
+    "stats_weight": 500,
+    "body_weight": 400,
+    "font_folder": "11_OFFICIAL_FONTS",
+    "allowed_variants": [
+      "Teko-Regular",
+      "Teko-Medium",
+      "Teko-Light",
+      "Teko-SemiBold"
+    ],
+    "policy_updated_on": "2026-10-17"
+  },
+  "brand_color_roles": {
+    "primary": "punch_red",
+    "secondary": "electric_blue",
+    "secondary_usage": [
+      "multiplayer",
+      "social",
+      "selected_interactive_states",
+      "technology",
+      "online_rankings"
+    ],
+    "preserve_gameplay_color_meanings": true,
+    "supporting_reference_colors_adopted": false
+  }
+}

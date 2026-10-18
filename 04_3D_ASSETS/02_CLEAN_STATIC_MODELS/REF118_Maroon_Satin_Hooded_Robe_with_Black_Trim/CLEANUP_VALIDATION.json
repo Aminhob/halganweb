@@ -1,0 +1,54 @@
+{
+  "ref": "REF118",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\original_export\\HALGAN_REF118.zip",
+  "source_archive_sha256": "82d92f9eb1696297b00a697157edd810aa72c9e5ed275e2b6379380c2211eff8",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Maroon Satin Hooded Robe with Black Trim\\Maroon Satin Hooded Robe with Black Trim.png",
+  "source_image_sha256": "2e7c5acba363606903ff2a1b42c8c4e3c702fa5d0cc465313b6ff205bf6c1113",
+  "triangles": 40036,
+  "vertices": 25698,
+  "materials": 3,
+  "world_bounds_metres": [
+    [
+      -0.6318265199661255,
+      0.6318265199661255
+    ],
+    [
+      -0.2109127640724182,
+      0.2109127640724182
+    ],
+    [
+      0.0,
+      1.5999999046325684
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\REF118_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\REF118_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\REF118_CLEAN.fbx",
+  "native_sha256": "f3f37ff6e6f15ca6ea2accc5eba8c74f6c84d73e0067898767361e5840e8d07c",
+  "glb_sha256": "1df7db9acefc6a31ee1244b336fb8f5ce9e54bbe7e17515506f7d281bc063c89",
+  "fbx_sha256": "4533ac1847313ce19cc868c90ca9e5e908f90c5b71fc798c7e12f6ef04a7350d",
+  "edits": [
+    "Rebuilt robe as original Blender geometry with a shared connected torso, sleeve-root and hood mesh, replacing damaged generated underarms",
+    "Authored smooth satin folds, open cuffs and hood, physical lining thickness, continuous hem/lapel facing and a wrapped cloth sash with knot and draped ends",
+    "Preserved reference garment identity: maroon satin with broad black facings; floor pivot and metric scale",
+    "Portable PBR materials and authored UVs; no new model downloads, paid generation or Tripo credits",
+    "Static presentation only: character-specific fitting and animation deformation remain pending"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "validated_working_paths": {
+    "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\_CLEANUP_V1\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\REF118_CLEAN.blend",
+    "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\_CLEANUP_V1\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\REF118_CLEAN.glb",
+    "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\_CLEANUP_V1\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\REF118_CLEAN.fbx"
+  },
+  "relocation": "Byte-identical copy of independently reopened/reimported current working files to current delivery folder; originals and rejected versions retained in OLD",
+  "visual_review_scope": "Current GLB front/rear and current FBX front reviewed against original source; static reference identity/proportions/materials and absence of generated underarm damage; no bodyfit/rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T20:04:08.696207+00:00"
+}

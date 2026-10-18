@@ -1,0 +1,46 @@
+{
+  "ref": "REF007",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF007_Athletic_Boxer_in_White_Studio\\original_export\\HALGAN_REF007.zip",
+  "source_archive_sha256": "708e6bb981f3b5be7664268107b1bed58dbb1577a7c02494a506739cb97383fe",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Boxer in White Studio\\Athletic Boxer in White Studio.png",
+  "source_image_sha256": "0a3333fdf2ea9797cc005865e1516804d2cbbb656713ddf49a3e73bd5ed08dc8",
+  "triangles": 19564,
+  "vertices": 15643,
+  "materials": 1,
+  "world_bounds_metres": [
+    [
+      -0.5090616345405579,
+      0.5092514753341675
+    ],
+    [
+      -0.16008210182189941,
+      0.1599663496017456
+    ],
+    [
+      5.222731033427408e-06,
+      1.7997517585754395
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF007_Athletic_Boxer_in_White_Studio\\REF007_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF007_Athletic_Boxer_in_White_Studio\\REF007_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF007_Athletic_Boxer_in_White_Studio\\REF007_CLEAN.fbx",
+  "native_sha256": "6bd0cbe728654aef0718e76c764ef69373d2468b72766411aedc33d2f4c2ce9b",
+  "glb_sha256": "f9e5f270e37cae8db9b5d1e4c8bbe0df9364a023fb26b1e16900b5188a7de349",
+  "fbx_sha256": "cee617dcf5eb849d4ce48d7af8ac12976fa76f7bc1c9df0b3e5c9438b032ac2b",
+  "edits": [
+    "Cleaned original mesh and material response; normalized metres/floor pivot",
+    "Canonicalized export mesh: overlapping/degenerate imported faces removed before saving final native/FBX/GLB"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "visual_review_note": "Static source-relative front/rear review and current native/GLB/FBX imports passed; rigging/deformation/runtime remain pending.",
+  "visual_review_scope": "Static reference-relative front and rear review; no rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T19:49:56.363532+00:00"
+}

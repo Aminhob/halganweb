@@ -1,0 +1,10 @@
+{
+  "ref": "REF118",
+  "geometry": "Original Blender-authored connected garment at user direction",
+  "reference_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Maroon Satin Hooded Robe with Black Trim\\Maroon Satin Hooded Robe with Black Trim.png",
+  "reference_sha256": "2e7c5acba363606903ff2a1b42c8c4e3c702fa5d0cc465313b6ff205bf6c1113",
+  "external_model_or_texture_downloads": 0,
+  "new_tripo_credits": 0,
+  "materials": "Original portable PBR materials embedded in all formats; values in MATERIALS.json",
+  "original_tripo_source_and_evidence_preserved": true
+}

@@ -1,0 +1,46 @@
+{
+  "ref": "REF006",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF006_Athletic_Boxer_in_Studio_Light\\original_export\\HALGAN_REF006_existing.zip",
+  "source_archive_sha256": "ae72f6d12811a07918fa01639b50912b39c043604d1a85c6dad05c35400222ac",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Boxer in Studio Light\\Athletic Boxer in Studio Light.png",
+  "source_image_sha256": "0d2c86ec3ea16770fc16cc736c055620c03391c603568f4d757f8e3b830eb27d",
+  "triangles": 4735,
+  "vertices": 3228,
+  "materials": 1,
+  "world_bounds_metres": [
+    [
+      -0.4517318606376648,
+      0.45181190967559814
+    ],
+    [
+      -0.15942461788654327,
+      0.1591913104057312
+    ],
+    [
+      7.596533396281302e-05,
+      1.7995681762695312
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF006_Athletic_Boxer_in_Studio_Light\\REF006_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF006_Athletic_Boxer_in_Studio_Light\\REF006_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF006_Athletic_Boxer_in_Studio_Light\\REF006_CLEAN.fbx",
+  "native_sha256": "2635da1f7bcf20014391b4e5edde6d01e39505956689feaf12310a42823a7550",
+  "glb_sha256": "b73a45d0b07796f7ca34afe58240809d5d49f582bb313bd833e528ac90dded6c",
+  "fbx_sha256": "826c00393ddd88d8f7b6f507e8d67b70467170deb4a28c91834c9fda00da7052",
+  "edits": [
+    "Normalized metres, floor pivot and centered horizontal origin",
+    "Merged coincident vertices, removed loose wire vertices and recalculated normals"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "visual_review_note": "Static source-relative front/rear review and current native/GLB/FBX imports passed; rigging/deformation/runtime remain pending.",
+  "visual_review_scope": "Static reference-relative front and rear review; no rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T19:49:56.309773+00:00"
+}

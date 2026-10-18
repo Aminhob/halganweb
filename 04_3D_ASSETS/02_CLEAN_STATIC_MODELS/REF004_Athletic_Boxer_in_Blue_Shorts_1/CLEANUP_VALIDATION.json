@@ -1,0 +1,46 @@
+{
+  "ref": "REF004",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\original_export\\HALGAN_REF004.zip",
+  "source_archive_sha256": "1a3ca708bc61cd566a1cd02e79a3bb22eeee7a2a9c356c52273a34636ccece34",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Boxer in Blue Shorts (1)\\Athletic Boxer in Blue Shorts (1).png",
+  "source_image_sha256": "aaf5d542cb8839849734fc9edd694182f155758f241a4270822cae0829a3dfdd",
+  "triangles": 19716,
+  "vertices": 16162,
+  "materials": 1,
+  "world_bounds_metres": [
+    [
+      -0.5322210192680359,
+      0.5318817496299744
+    ],
+    [
+      -0.149787038564682,
+      0.14973248541355133
+    ],
+    [
+      0.00012423252337612212,
+      1.7994731664657593
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\REF004_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\REF004_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\REF004_CLEAN.fbx",
+  "native_sha256": "1683a5c7d882d2164a335281395e2b9d30829096603cda188722be8edf449a66",
+  "glb_sha256": "66444f43f256a81744c60511e23c2da21f9d258efd8c9feebef7098c73c06726",
+  "fbx_sha256": "f4611d0cdc1e809debb8f40d038ba48ab96e0c17f67ee58e9b52ef47b4e1d99a",
+  "edits": [
+    "Cleaned original mesh and material response; normalized metres/floor pivot",
+    "Canonicalized export mesh: overlapping/degenerate imported faces removed before saving final native/FBX/GLB"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "visual_review_note": "Static source-relative front/rear review and current native/GLB/FBX imports passed; rigging/deformation/runtime remain pending.",
+  "visual_review_scope": "Static reference-relative front and rear review; no rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T19:49:56.173617+00:00"
+}

@@ -1,0 +1,21 @@
+CURRENT 3D DELIVERIES — 18 October 2026
+
+01_APPROVED_MODELS/HALGAN_APPROVED_DESIGNS.unitypackage
+Latest verified package: 198 approved prefabs, 1307 asset paths,
+110509134 bytes. SHA256:
+67dfa66c3190fdc69218aa194e2f397e014b440ce95df9bf4e274fd5e05577db
+See CURRENT_EXECUTION_REPORT.md and APPROVED_PACKAGE_VERIFICATION.json.
+
+02_CLEAN_STATIC_MODELS
+20 CLEANUP_VISUAL_PASS models; keep each model's textures with its exports.
+These are static cleanup deliveries, with rigging/runtime still pending.
+CLEANUP_MANIFEST.csv lists only the 20 active passed models.
+REF044 and REF118 remain partial and are archived, not approved.
+
+Original/reference images, model working trees, editable family masters,
+previous packages, batch evidence and test projects are in:
+../OLD/ORGANIZED_2026-10-18/04_3D_ASSETS/
+Relative to this folder, use ../../OLD/ORGANIZED_2026-10-18/04_3D_ASSETS/.
+The root MOVE_LOG.csv records the precise relocation.
+
+No full gameplay or Android/device pass is claimed by this organization.

@@ -1,0 +1,942 @@
+{
+  "completed_utc": "2026-10-18T20:04:26.211790+00:00",
+  "scope": "STATIC_BLENDER_CLEANUP",
+  "designs": 22,
+  "reviewed_static_passes": 22,
+  "variants_including_lods": 24,
+  "native_reopens": 24,
+  "current_glb_reimports": 24,
+  "current_fbx_reimports": 24,
+  "original_hashes_unchanged": 66,
+  "originals": [
+    {
+      "ref": "REF003",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF003_Athletic_Black_Man_in_Studio_Stance\\original_export\\HALGAN_REF003.zip",
+      "sha256": "776d8170e90afe87695272a1e1ef2692e2447fd54fa5b5d45b3a69632998fd45"
+    },
+    {
+      "ref": "REF003",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF003_Athletic_Black_Man_in_Studio_Stance\\blender_handoff\\REF003_BLENDER_HANDOFF.blend",
+      "sha256": "0bb2c975be8f71481739a9914167eb647eb755f0d8db29567f799eb6daf3f144"
+    },
+    {
+      "ref": "REF004",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\original_export\\HALGAN_REF004.zip",
+      "sha256": "1a3ca708bc61cd566a1cd02e79a3bb22eeee7a2a9c356c52273a34636ccece34"
+    },
+    {
+      "ref": "REF004",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\blender_handoff\\REF004_BLENDER_HANDOFF.blend",
+      "sha256": "ccaeccaf4afdb60f339ec8e3f0160bd3e1bab2ecbc5d441dfad741db075ae3c0"
+    },
+    {
+      "ref": "REF005",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF005_Athletic_Boxer_in_Blue_Shorts\\original_export\\HALGAN_REF005.zip",
+      "sha256": "a8f3d170fbb2529d76b086d2b01daa22122a84921a9eadecfff2c1f96169fa70"
+    },
+    {
+      "ref": "REF005",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF005_Athletic_Boxer_in_Blue_Shorts\\blender_handoff\\REF005_BLENDER_HANDOFF.blend",
+      "sha256": "c142f7eb14bf1be7d791ff15e527a08d2da20d0a4a239e98d77bbde709ee993b"
+    },
+    {
+      "ref": "REF006",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF006_Athletic_Boxer_in_Studio_Light\\original_export\\HALGAN_REF006_existing.zip",
+      "sha256": "ae72f6d12811a07918fa01639b50912b39c043604d1a85c6dad05c35400222ac"
+    },
+    {
+      "ref": "REF006",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF006_Athletic_Boxer_in_Studio_Light\\blender_handoff\\REF006_BLENDER_HANDOFF.blend",
+      "sha256": "8312ae03a75bbd615a366806d296f27532bf866d7fca19d6faa31f1dbf190cf2"
+    },
+    {
+      "ref": "REF007",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF007_Athletic_Boxer_in_White_Studio\\original_export\\HALGAN_REF007.zip",
+      "sha256": "708e6bb981f3b5be7664268107b1bed58dbb1577a7c02494a506739cb97383fe"
+    },
+    {
+      "ref": "REF007",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF007_Athletic_Boxer_in_White_Studio\\blender_handoff\\REF007_BLENDER_HANDOFF.blend",
+      "sha256": "cda7f8e44b7841534695c8f409a11ec73d81d5079fb7a68fb08225a23c54d79d"
+    },
+    {
+      "ref": "REF008",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\original_export\\HALGAN_REF008_existing.zip",
+      "sha256": "03fc67b67ececb8162eb5f6f2cb9e93acc65abf84cb2f55b1f8fd3eb3ea8c0f6"
+    },
+    {
+      "ref": "REF008",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\blender_handoff\\REF008_BLENDER_HANDOFF.blend",
+      "sha256": "ea4f7158d96f9c50bd2526aabda46b8a963c55bbe44ce795ec63cdc9e4616082"
+    },
+    {
+      "ref": "REF009",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF009_Athletic_Man_in_Studio_Pose\\original_export\\HALGAN_REF009.zip",
+      "sha256": "47caac864b3bb8f3aae1f3851fd562bf94728bcc54f048cf271096624f396708"
+    },
+    {
+      "ref": "REF009",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF009_Athletic_Man_in_Studio_Pose\\blender_handoff\\REF009_BLENDER_HANDOFF.blend",
+      "sha256": "993a916302ec48f7328709432346dc79c0411c024166c8e2a45abfd0ec8f9b32"
+    },
+    {
+      "ref": "REF010",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\original_export\\HALGAN_REF010.zip",
+      "sha256": "148549f377041c1a3ab69fa127a3c8ede58f12637949b4b929d9fb49ada6f23b"
+    },
+    {
+      "ref": "REF010",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\blender_handoff\\REF010_BLENDER_HANDOFF.blend",
+      "sha256": "524ff0bbb25e334b2a2f934ee82153b12939db76112a9fd878bb729cc41f2fdd"
+    },
+    {
+      "ref": "REF011",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF011_Athletic_Portrait_in_Burnt_Orange_Shorts\\original_export\\HALGAN_REF011.zip",
+      "sha256": "863db022c6138e79a25d21b8e493e722c1d7c228f7a841719b0ec4a800d2ea75"
+    },
+    {
+      "ref": "REF011",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF011_Athletic_Portrait_in_Burnt_Orange_Shorts\\blender_handoff\\REF011_BLENDER_HANDOFF.blend",
+      "sha256": "ee6b62eadcf6b339fd161e6d4256e84826cb767b11ff79e89693a556fcb6698a"
+    },
+    {
+      "ref": "REF012",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF012_Athletic_Portrait_in_Golden_Shorts\\original_export\\HALGAN_REF012.zip",
+      "sha256": "873f477dce1eee2ba1daadddeddf89776de29bf0c796900c970f4b0360e074ef"
+    },
+    {
+      "ref": "REF012",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF012_Athletic_Portrait_in_Golden_Shorts\\blender_handoff\\REF012_BLENDER_HANDOFF.blend",
+      "sha256": "b63d987e951a9d8828dff70af36cd91678b86adbcecf63bdb607d1e67b58ab98"
+    },
+    {
+      "ref": "REF013",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF013_Athletic_Portrait_in_Green_Shorts\\original_export\\HALGAN_REF013.zip",
+      "sha256": "cfe771aa04f0c04bc18383a1a626aa9c2e08e4d4e331839a64078e360015ced3"
+    },
+    {
+      "ref": "REF013",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF013_Athletic_Portrait_in_Green_Shorts\\blender_handoff\\REF013_BLENDER_HANDOFF.blend",
+      "sha256": "58a92690e98df1661df43918b82c4a095599843f077eb3e64cf43a1ccfef3299"
+    },
+    {
+      "ref": "REF017",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF017_Black_and_Gold_Boxing_Glove\\original_export\\HALGAN_REF017.zip",
+      "sha256": "c4cf8a11b772f651f55cf51bd6cb1276510858d32376c294b99e0de1d15a2387"
+    },
+    {
+      "ref": "REF017",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF017_Black_and_Gold_Boxing_Glove\\blender_handoff\\REF017_BLENDER_HANDOFF.blend",
+      "sha256": "601ab548722000bec8ebe89948dcd2ab1b60ee07c572dfafab59e91e23e2ab14"
+    },
+    {
+      "ref": "REF044",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\original_export\\HALGAN_REF044.zip",
+      "sha256": "dfde374930f26faf673087fa2766e49fc7c2c17220de9e5f8372945bcffa4753"
+    },
+    {
+      "ref": "REF044",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\blender_handoff\\REF044_BLENDER_HANDOFF.blend",
+      "sha256": "238bbec4cdfc96b8481216ec24a8dbb766e4bfdf60b453e03bb50ff3dd089773"
+    },
+    {
+      "ref": "REF056",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\original_export\\HALGAN_REF056.zip",
+      "sha256": "428f322eb23fcbac9c51dc783be59818621e6249a4e5c17511d2bb8fbd475407"
+    },
+    {
+      "ref": "REF056",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\blender_handoff\\REF056_BLENDER_HANDOFF.blend",
+      "sha256": "38f9044796c43291b9a24d594db819409bbb9d845c3f403b28d6e534fb89c9a4"
+    },
+    {
+      "ref": "REF057",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF057_Centered_Shirtless_Athlete_in_Burgundy_Shorts\\original_export\\HALGAN_REF057.zip",
+      "sha256": "bbb85d4d923b6a6443b1c2b129d2d321724287646de99dfa456349d9f5c31486"
+    },
+    {
+      "ref": "REF057",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF057_Centered_Shirtless_Athlete_in_Burgundy_Shorts\\blender_handoff\\REF057_BLENDER_HANDOFF.blend",
+      "sha256": "05993902f0b774b460c797a14578bd836fd7af25119be34b7f49d6eabba6876c"
+    },
+    {
+      "ref": "REF072",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\original_export\\HALGAN_REF072.zip",
+      "sha256": "0010794fe3a20f1869f3e3010a257b53eedb5c6e52aff40ea3d5671fa2849841"
+    },
+    {
+      "ref": "REF072",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\blender_handoff\\REF072_BLENDER_HANDOFF.blend",
+      "sha256": "745b4d88db2759fb9d656c410c97b382ba46ed14f389d8c8431471f2b94f73e4"
+    },
+    {
+      "ref": "REF079",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF079_Framed_Red_Shadow_Boxer\\original_export\\HALGAN_REF079.zip",
+      "sha256": "807080dd6da5db922118b813134ec1dcd175677215466f595edba20d5f3f32fc"
+    },
+    {
+      "ref": "REF079",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF079_Framed_Red_Shadow_Boxer\\blender_handoff\\REF079_BLENDER_HANDOFF.blend",
+      "sha256": "a02c319164e51b16adef79fe0b83e7e8e4173ba8a33b1522b4c6e6dd0b2e5b33"
+    },
+    {
+      "ref": "REF081",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF081_Front_Facing_Teal_Boxing_Portrait\\original_export\\HALGAN_REF081.zip",
+      "sha256": "9a02c5f114934fbe6a0ff71664a9beac9b546deca2f27155d4a421571b211553"
+    },
+    {
+      "ref": "REF081",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF081_Front_Facing_Teal_Boxing_Portrait\\blender_handoff\\REF081_BLENDER_HANDOFF.blend",
+      "sha256": "7628a453b7128924eb58a75000a60ec15495947ec5b788b331bc231867c8cd6b"
+    },
+    {
+      "ref": "REF082",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\original_export\\HALGAN_REF082.zip",
+      "sha256": "e355dc3eb7ae6662ab0be166c7c8de8186f48506c6a0a01fea289f649d37391f"
+    },
+    {
+      "ref": "REF082",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\blender_handoff\\REF082_BLENDER_HANDOFF.blend",
+      "sha256": "adaf8cdb80ac10434103837f0c07781f74a8989dbac9e50b81e340e095c649e5"
+    },
+    {
+      "ref": "REF083",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF083_Full_Body_Athletic_Portrait\\original_export\\HALGAN_REF083.zip",
+      "sha256": "1426e69efd3719c71bff7f24c29ce911be0fc254b25fb6410c708d625c9f2211"
+    },
+    {
+      "ref": "REF083",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF083_Full_Body_Athletic_Portrait\\blender_handoff\\REF083_BLENDER_HANDOFF.blend",
+      "sha256": "6cf2216ba41a7268e5ea057b506d7bda16c675d691ba08d4361910c64ef334fd"
+    },
+    {
+      "ref": "REF084",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF084_Full_Body_Athletic_Studio_Portrait\\original_export\\HALGAN_REF084_existing.zip",
+      "sha256": "e87689a11dbd83948a328d93633f5bbeb7dbe1a3b0c9bf6ae66bbe4a86c9563b"
+    },
+    {
+      "ref": "REF084",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF084_Full_Body_Athletic_Studio_Portrait\\blender_handoff\\REF084_BLENDER_HANDOFF.blend",
+      "sha256": "dfcf812d680dddd21637955d8d215fc55a897d4c0168dfd96c7eec0a6a6319a6"
+    },
+    {
+      "ref": "REF118",
+      "kind": "archive",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\original_export\\HALGAN_REF118.zip",
+      "sha256": "82d92f9eb1696297b00a697157edd810aa72c9e5ed275e2b6379380c2211eff8"
+    },
+    {
+      "ref": "REF118",
+      "kind": "native",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\blender_handoff\\REF118_BLENDER_HANDOFF.blend",
+      "sha256": "600073b76d930f9e05455d37635e6f51edae9b445a1987a628afd4dc4cf8a379"
+    },
+    {
+      "ref": "REF003",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Black Man in Studio Stance\\Athletic Black Man in Studio Stance.png",
+      "sha256": "3297bc3239a4c4d22029d873d0f77916538832a6286e5b3875ed20ee039a357a"
+    },
+    {
+      "ref": "REF004",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Boxer in Blue Shorts (1)\\Athletic Boxer in Blue Shorts (1).png",
+      "sha256": "aaf5d542cb8839849734fc9edd694182f155758f241a4270822cae0829a3dfdd"
+    },
+    {
+      "ref": "REF005",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Boxer in Blue Shorts\\Athletic Boxer in Blue Shorts.png",
+      "sha256": "5ec1b1fd14c00d87496ce4a3a22cccae2b5dd94666f5fc0f2d340caf6494d9f7"
+    },
+    {
+      "ref": "REF006",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Boxer in Studio Light\\Athletic Boxer in Studio Light.png",
+      "sha256": "0d2c86ec3ea16770fc16cc736c055620c03391c603568f4d757f8e3b830eb27d"
+    },
+    {
+      "ref": "REF007",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Boxer in White Studio\\Athletic Boxer in White Studio.png",
+      "sha256": "0a3333fdf2ea9797cc005865e1516804d2cbbb656713ddf49a3e73bd5ed08dc8"
+    },
+    {
+      "ref": "REF008",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Man in Purple Boxing Shorts\\Athletic Man in Purple Boxing Shorts.png",
+      "sha256": "7d613997537b94a83af4d2ea42ebdf26acc82895e349a6b3c4281efa60af18a2"
+    },
+    {
+      "ref": "REF009",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Man in Studio Pose\\Athletic Man in Studio Pose.png",
+      "sha256": "13bc11d617092860bf8219c1985ea6d8accd18e81fa81350ecac57f214e6a85d"
+    },
+    {
+      "ref": "REF010",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Model in Minimalist Studio Pose\\Athletic Model in Minimalist Studio Pose.png",
+      "sha256": "6d0bf40f9745b81242e9af72cb000f8633ee672e8b54d103299fde6872d32444"
+    },
+    {
+      "ref": "REF011",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Portrait in Burnt Orange Shorts\\Athletic Portrait in Burnt Orange Shorts.png",
+      "sha256": "49fdb47f004143540572b1d0217ae282eb8e9920647e473a96b3dc3da849895a"
+    },
+    {
+      "ref": "REF012",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Portrait in Golden Shorts\\Athletic Portrait in Golden Shorts.png",
+      "sha256": "bf4081e8153f2746d7bd41ba8998c9d854ca8052068aeddfcea6f7928412df84"
+    },
+    {
+      "ref": "REF013",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Portrait in Green Shorts\\Athletic Portrait in Green Shorts.png",
+      "sha256": "13d968809c499eb8e3b208123473ff8ad48548dcb1343ecfb127bc44ec6bad5c"
+    },
+    {
+      "ref": "REF017",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Black and Gold Boxing Glove\\Black and Gold Boxing Glove.png",
+      "sha256": "e924e2664095b03f75ebdbf50c222620e2aeefc7f31d2997702ee0377c6bf83c"
+    },
+    {
+      "ref": "REF044",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Black Satin Hooded Robe with Gold Trim\\Black Satin Hooded Robe with Gold Trim.png",
+      "sha256": "d1dc3b1ccece2014bc9ce15d3e71a4d190b51160e171f27a1d23451c742ecc57"
+    },
+    {
+      "ref": "REF056",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Centered Athlete in Gold-Trimmed Shorts\\Centered Athlete in Gold-Trimmed Shorts.png",
+      "sha256": "a49b9e3f40e88ca1677367e5da67396752179a23a33d058e4fc2f66ee478b795"
+    },
+    {
+      "ref": "REF057",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Centered Shirtless Athlete in Burgundy Shorts\\Centered Shirtless Athlete in Burgundy Shorts.png",
+      "sha256": "d8fc4eaed95db96f471f322c45ee8ade2cbc448a3cadd8a87465de01ddceb3f6"
+    },
+    {
+      "ref": "REF072",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Empty Boxing Ring in Red, White, and Blue\\Empty Boxing Ring in Red, White, and Blue.png",
+      "sha256": "3cd0f0f1f877d0becd1792d142ef0b28cc1076c8c131257c0c10a543a9b08ec6"
+    },
+    {
+      "ref": "REF079",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Framed Red Shadow Boxer\\Framed Red Shadow Boxer.png",
+      "sha256": "53cefb40e972abf160249814012978edb1ccdda549778454034032cb5b77158a"
+    },
+    {
+      "ref": "REF081",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Front-Facing Teal Boxing Portrait\\Front-Facing Teal Boxing Portrait.png",
+      "sha256": "51fc3fd261d13a510e8f348c8eac3ae20ea86d84c3c306536fdcdf8ea709ad91"
+    },
+    {
+      "ref": "REF082",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Full-Body Athlete in Maroon Shorts\\Full-Body Athlete in Maroon Shorts.png",
+      "sha256": "861c7be4b9e7afdb74cfa3853ae591d4a0a7572442ab0b793b17dacbfd70d4a8"
+    },
+    {
+      "ref": "REF083",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Full-Body Athletic Portrait\\Full-Body Athletic Portrait.png",
+      "sha256": "d6b8dfaea51ea00a493683ced5c769e52596cde2d4e8360fe5103afb58d2e7bf"
+    },
+    {
+      "ref": "REF084",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Full-Body Athletic Studio Portrait\\Full-Body Athletic Studio Portrait.png",
+      "sha256": "74e4829fc7e564dd95acc08060c4147ca32e7b1cf4e7a3207770f6f248e09c78"
+    },
+    {
+      "ref": "REF118",
+      "kind": "source_image",
+      "path": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Maroon Satin Hooded Robe with Black Trim\\Maroon Satin Hooded Robe with Black Trim.png",
+      "sha256": "2e7c5acba363606903ff2a1b42c8c4e3c702fa5d0cc465313b6ff205bf6c1113"
+    }
+  ],
+  "additional_tripo_credits": 0,
+  "bodyfit_rig_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "assets": [
+    {
+      "ref": "REF003",
+      "name": "Athletic Black Man in Studio Stance",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19932,
+      "triangles": 19932,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF003_Athletic_Black_Man_in_Studio_Stance\\REF003_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF003_Athletic_Black_Man_in_Studio_Stance\\REF003_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF003_Athletic_Black_Man_in_Studio_Stance\\REF003_CLEAN.fbx",
+      "native_sha256": "2e4740e696a951705b979808286ed6bb7ab2772fb40985d099e2a341e12dff84",
+      "glb_sha256": "7d1f972c4a122de92281ed084ae24234a7400c7394f614a157c5a4177ad8e1d4",
+      "fbx_sha256": "3d3f00ac597c1162615f1b4064e1026f0ba97f7d493b2dcde8c0ae3915ee01c1",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF003_Athletic_Black_Man_in_Studio_Stance\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned skin/cloth roughness range to0.38-0.73",
+        "Removed spurious metallic response from skin/cloth"
+      ]
+    },
+    {
+      "ref": "REF004",
+      "name": "Athletic Boxer in Blue Shorts (1)",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19722,
+      "triangles": 19716,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\REF004_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\REF004_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\REF004_CLEAN.fbx",
+      "native_sha256": "1683a5c7d882d2164a335281395e2b9d30829096603cda188722be8edf449a66",
+      "glb_sha256": "66444f43f256a81744c60511e23c2da21f9d258efd8c9feebef7098c73c06726",
+      "fbx_sha256": "f4611d0cdc1e809debb8f40d038ba48ab96e0c17f67ee58e9b52ef47b4e1d99a",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Cleaned original mesh and material response; normalized metres/floor pivot",
+        "Canonicalized export mesh: overlapping/degenerate imported faces removed before saving final native/FBX/GLB"
+      ]
+    },
+    {
+      "ref": "REF005",
+      "name": "Athletic Boxer in Blue Shorts",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 18571,
+      "triangles": 18571,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF005_Athletic_Boxer_in_Blue_Shorts\\REF005_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF005_Athletic_Boxer_in_Blue_Shorts\\REF005_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF005_Athletic_Boxer_in_Blue_Shorts\\REF005_CLEAN.fbx",
+      "native_sha256": "b96e15aa5dd2de6738fe979cfd446273f8bfdead9819306ec6e089ff2adf6716",
+      "glb_sha256": "2266598695a80b95050bab76fc7f4e6e1de3b663c180e74106723f4a640adf6b",
+      "fbx_sha256": "2e0f4291a9de13f4b8d4cc944efa145b582eada6298d612b27d0d8735b0a9753",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF005_Athletic_Boxer_in_Blue_Shorts\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned physically plausible roughness; reduced plastic-like gloss",
+        "Removed spurious metallic response from skin/cloth",
+        "Retained original reference-derived hair/face; rejected extra crown that changed the silhouette"
+      ]
+    },
+    {
+      "ref": "REF006",
+      "name": "Athletic Boxer in Studio Light",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 4735,
+      "triangles": 4735,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF006_Athletic_Boxer_in_Studio_Light\\REF006_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF006_Athletic_Boxer_in_Studio_Light\\REF006_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF006_Athletic_Boxer_in_Studio_Light\\REF006_CLEAN.fbx",
+      "native_sha256": "2635da1f7bcf20014391b4e5edde6d01e39505956689feaf12310a42823a7550",
+      "glb_sha256": "b73a45d0b07796f7ca34afe58240809d5d49f582bb313bd833e528ac90dded6c",
+      "fbx_sha256": "826c00393ddd88d8f7b6f507e8d67b70467170deb4a28c91834c9fda00da7052",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF006_Athletic_Boxer_in_Studio_Light\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals"
+      ]
+    },
+    {
+      "ref": "REF007",
+      "name": "Athletic Boxer in White Studio",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19566,
+      "triangles": 19564,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF007_Athletic_Boxer_in_White_Studio\\REF007_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF007_Athletic_Boxer_in_White_Studio\\REF007_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF007_Athletic_Boxer_in_White_Studio\\REF007_CLEAN.fbx",
+      "native_sha256": "6bd0cbe728654aef0718e76c764ef69373d2468b72766411aedc33d2f4c2ce9b",
+      "glb_sha256": "f9e5f270e37cae8db9b5d1e4c8bbe0df9364a023fb26b1e16900b5188a7de349",
+      "fbx_sha256": "cee617dcf5eb849d4ce48d7af8ac12976fa76f7bc1c9df0b3e5c9438b032ac2b",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF007_Athletic_Boxer_in_White_Studio\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Cleaned original mesh and material response; normalized metres/floor pivot",
+        "Canonicalized export mesh: overlapping/degenerate imported faces removed before saving final native/FBX/GLB"
+      ]
+    },
+    {
+      "ref": "REF008",
+      "name": "Athletic Man in Purple Boxing Shorts",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 1950508,
+      "triangles": 24000,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\REF008_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\REF008_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\REF008_CLEAN.fbx",
+      "native_sha256": "242dd8fb331a8081d00c9226fba3244b59e51faa0fb24a2859ba191722dc700b",
+      "glb_sha256": "3483717de01789e2f8f378e3a9ff78c1e6ca773665892135f3a4352da0c27dba",
+      "fbx_sha256": "13087f1580792e1d198614b96e9193c0b9a58d7fe020a611fe6456deb310b7e3",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Reduced dense fighter from1950508 to24000 triangles using source UV/textures",
+        "Raised skin/cloth roughness range to0.43-0.83",
+        "Removed spurious metallic response from skin/cloth"
+      ]
+    },
+    {
+      "ref": "REF009",
+      "name": "Athletic Man in Studio Pose",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19510,
+      "triangles": 19510,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF009_Athletic_Man_in_Studio_Pose\\REF009_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF009_Athletic_Man_in_Studio_Pose\\REF009_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF009_Athletic_Man_in_Studio_Pose\\REF009_CLEAN.fbx",
+      "native_sha256": "4e1ce45ea13e4eeaf823ade58a4ded1b07685066c2a0c6b3a55a4368c74df4b0",
+      "glb_sha256": "e4d7cd13d36327eb2487cdf040f1a8b9ff13eae3a492308d8b9db19bde8a7e90",
+      "fbx_sha256": "967efe7880e997dc0d07796f396dadd870502653e964a40b016a95dcbae6926f",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF009_Athletic_Man_in_Studio_Pose\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned skin/cloth roughness range to0.38-0.73",
+        "Removed spurious metallic response from skin/cloth"
+      ]
+    },
+    {
+      "ref": "REF010",
+      "name": "Athletic Model in Minimalist Studio Pose",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19518,
+      "triangles": 19518,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\REF010_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\REF010_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\REF010_CLEAN.fbx",
+      "native_sha256": "9bfd053cbe337dc3e0d3456a1393570a005546934598958a0a9067e4c7379ae6",
+      "glb_sha256": "8422cdded53313953ed8dc022f42a70e087990aa8e870946b6777bc50064619a",
+      "fbx_sha256": "074d32d501f61cd7d18ae8d2d55cd41c221c0f2bae4ea4a60dbd51f8d988696f",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned physically plausible roughness; reduced plastic-like gloss",
+        "Removed spurious metallic response from skin/cloth"
+      ]
+    },
+    {
+      "ref": "REF011",
+      "name": "Athletic Portrait in Burnt Orange Shorts",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19512,
+      "triangles": 19510,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF011_Athletic_Portrait_in_Burnt_Orange_Shorts\\REF011_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF011_Athletic_Portrait_in_Burnt_Orange_Shorts\\REF011_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF011_Athletic_Portrait_in_Burnt_Orange_Shorts\\REF011_CLEAN.fbx",
+      "native_sha256": "09e8ce9b57e5ad085a04b22988f89607eca2e504c88e87c812dc138ff3e50602",
+      "glb_sha256": "9621e152f1754944e024f3c5ca71182125ba9eba6e132d067e8da50b81cc114e",
+      "fbx_sha256": "1be3fc4fb727e5ba6271ebb81582cb72d1965cc0b62e8d8bf3eddf670b053be4",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF011_Athletic_Portrait_in_Burnt_Orange_Shorts\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned physically plausible roughness; reduced plastic-like gloss",
+        "Removed spurious metallic response from skin/cloth",
+        "Retained original reference-derived hair/face; rejected extra crown that changed the silhouette",
+        "Canonicalized subpixel duplicate export faces"
+      ]
+    },
+    {
+      "ref": "REF012",
+      "name": "Athletic Portrait in Golden Shorts",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 18972,
+      "triangles": 18972,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF012_Athletic_Portrait_in_Golden_Shorts\\REF012_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF012_Athletic_Portrait_in_Golden_Shorts\\REF012_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF012_Athletic_Portrait_in_Golden_Shorts\\REF012_CLEAN.fbx",
+      "native_sha256": "49b95700bc7ae5a82bf6e6988533c9af8fa6858e8e54bbc4142e374d503b3f5e",
+      "glb_sha256": "34f378dbd6104b82c5b7b120dc14eb3ac88b896956f10c74f957ffb1fba56030",
+      "fbx_sha256": "8be2930098ce1adc55fe2296b67febcb09cbee3a7a586a6045e97ead39310ce2",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF012_Athletic_Portrait_in_Golden_Shorts\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned skin/cloth roughness range to0.38-0.73",
+        "Removed spurious metallic response from skin/cloth"
+      ]
+    },
+    {
+      "ref": "REF013",
+      "name": "Athletic Portrait in Green Shorts",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19522,
+      "triangles": 19522,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF013_Athletic_Portrait_in_Green_Shorts\\REF013_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF013_Athletic_Portrait_in_Green_Shorts\\REF013_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF013_Athletic_Portrait_in_Green_Shorts\\REF013_CLEAN.fbx",
+      "native_sha256": "b87b057e0a35538eb3148f8a65c54f599810eb6b4ee724ca3875c0d12ae27cba",
+      "glb_sha256": "eea195679a8202a6b9daeac53e86ea75da7cb2ba0aad2d9750584904f9bd6e30",
+      "fbx_sha256": "fd9d08ff9a352c323204c696294f517980a7e7e754bb62514e6d05c0eb16d27f",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF013_Athletic_Portrait_in_Green_Shorts\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned skin/cloth roughness range to0.38-0.73",
+        "Removed spurious metallic response from skin/cloth"
+      ]
+    },
+    {
+      "ref": "REF017",
+      "name": "Black and Gold Boxing Glove",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 18617,
+      "triangles": 18457,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF017_Black_and_Gold_Boxing_Glove\\REF017_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF017_Black_and_Gold_Boxing_Glove\\REF017_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF017_Black_and_Gold_Boxing_Glove\\REF017_CLEAN.fbx",
+      "native_sha256": "a067eb47ab9adc5a136e784585eaa33881f49acdf4bbefd6b77bbe346a776c63",
+      "glb_sha256": "ec4e5ee02a1cf87402b42aaba2e7a3a80c710594289c76f9b308300bf21fe6d0",
+      "fbx_sha256": "57ba698066d7a0f2328f7c6e053186e78abb36990252357b8f34f1930f8e80b1",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF017_Black_and_Gold_Boxing_Glove\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned physically plausible roughness; reduced plastic-like gloss",
+        "Opened compatible32mm-radius wrist socket0.105m deep; padded knuckle remains closed"
+      ]
+    },
+    {
+      "ref": "REF044",
+      "name": "Black Satin Hooded Robe with Gold Trim",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 18810,
+      "triangles": 40036,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\REF044_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\REF044_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\REF044_CLEAN.fbx",
+      "native_sha256": "b2c14ab8cc0f70c1c45c5ac7ef0b98a51aa65b025e8854ce446baee0adfc6783",
+      "glb_sha256": "f0f854db43a24be39921398ee74219b9667b5b163b281bf0ff2242428138681f",
+      "fbx_sha256": "baddde61e92ce6bbb3d0fa88bed79f23871823ef2c5741fd30704cfac584cec9",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Rebuilt robe as original Blender geometry with a shared connected torso, sleeve-root and hood mesh, replacing damaged generated underarms",
+        "Authored smooth satin folds, open cuffs and hood, physical lining thickness, continuous hem/lapel facing and a wrapped cloth sash with knot and draped ends",
+        "Preserved reference garment identity: black satin with narrow gold piping; floor pivot and metric scale",
+        "Portable PBR materials and authored UVs; no new model downloads, paid generation or Tripo credits",
+        "Static presentation only: character-specific fitting and animation deformation remain pending"
+      ]
+    },
+    {
+      "ref": "REF056",
+      "name": "Centered Athlete in Gold-Trimmed Shorts",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19884,
+      "triangles": 20908,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\REF056_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\REF056_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\REF056_CLEAN.fbx",
+      "native_sha256": "dc353a08f9570edf7435b700b322e116f0e7fcaba90cf54cb427da2132437af6",
+      "glb_sha256": "4c4eb4c72a3db5c5e7aec6191ce46e7426b84307e17e2b4cefb5ba36ea69e96b",
+      "fbx_sha256": "c14308e55f4aa5c0d08ea400d4d35ea38e7e8594256b1206de4a8a96dc33181a",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned physically plausible roughness; reduced plastic-like gloss",
+        "Removed spurious metallic response from skin/cloth",
+        "Authored fitted50mm gold waistband facing along measured source cloth band; no skin recolouring",
+        "Seated gold facing over the original waistband rather than above it",
+        "Gold facing sampled along five height rings with6mm cloth clearance to remove body poke-through"
+      ]
+    },
+    {
+      "ref": "REF057",
+      "name": "Centered Shirtless Athlete in Burgundy Shorts",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19197,
+      "triangles": 19197,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF057_Centered_Shirtless_Athlete_in_Burgundy_Shorts\\REF057_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF057_Centered_Shirtless_Athlete_in_Burgundy_Shorts\\REF057_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF057_Centered_Shirtless_Athlete_in_Burgundy_Shorts\\REF057_CLEAN.fbx",
+      "native_sha256": "fad495a5e3c2569e0eda405ad834d5365d8a38761aecbe76df321e1996789b4e",
+      "glb_sha256": "f585015ed764b76e8b6abee2eb6e6c7f95ef9d5f914a35a8d600d57309101a9c",
+      "fbx_sha256": "b536375581f63a8383342d95e3ba099075a0049adc45e36eab12178bde3a72a4",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF057_Centered_Shirtless_Athlete_in_Burgundy_Shorts\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned skin/cloth roughness range to0.38-0.73",
+        "Removed spurious metallic response from skin/cloth"
+      ]
+    },
+    {
+      "ref": "REF072",
+      "name": "Empty Boxing Ring in Red, White, and Blue",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 34460,
+      "triangles": 13184,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\REF072_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\REF072_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\REF072_CLEAN.fbx",
+      "native_sha256": "bc81811dbcedc00e9f2dfbf5b04d76f389958695be41381841fd2fe65c3416f8",
+      "glb_sha256": "71ada5218fd4ba49aa396d2df1ee61dcd449e9411bc1d3b8f63698ae062f5f64",
+      "fbx_sha256": "f2690f32cf742667f6adf2da73f71505c497f746bf786a2dd533e90644f0f25c",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Rebuilt ring from original reference: clean deck/apron, four continuous rope runs, seated pads and turnbuckles, steel supports and stairs",
+        "Authored original geometry and solid materials; no generated broken geometry retained"
+      ]
+    },
+    {
+      "ref": "REF079",
+      "name": "Framed Red Shadow Boxer",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 20296,
+      "triangles": 732,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF079_Framed_Red_Shadow_Boxer\\REF079_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF079_Framed_Red_Shadow_Boxer\\REF079_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF079_Framed_Red_Shadow_Boxer\\REF079_CLEAN.fbx",
+      "native_sha256": "e7170f7a8dbd5af708ba58ddc5342b7e421375f1d80653c8b220b9cece8f6000",
+      "glb_sha256": "a8a593b776dee4696bc05d21ad0858799b6bdb5947fb999c68d4b7ff1b2030c1",
+      "fbx_sha256": "fecd9dd532f06c5d11aec886b0d4f2705c9af25b10630d95490d879f375d0dce",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF079_Framed_Red_Shadow_Boxer\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Rebuilt flat backing and straight beveled frame; removed all raised boxer/reverse bulges",
+        "Original source artwork mapped onto flat printed panel with projective UV correction; no regenerated artwork"
+      ]
+    },
+    {
+      "ref": "REF081",
+      "name": "Front-Facing Teal Boxing Portrait",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19073,
+      "triangles": 19073,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF081_Front_Facing_Teal_Boxing_Portrait\\REF081_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF081_Front_Facing_Teal_Boxing_Portrait\\REF081_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF081_Front_Facing_Teal_Boxing_Portrait\\REF081_CLEAN.fbx",
+      "native_sha256": "c496ff79c76ddcd3d3f285673cc42e4e0023e05ff6b5415bc407499b82a35aa8",
+      "glb_sha256": "8ba38b9745db2cb60b0556d111f44581eea54d12f0cb2dec075ae3d62a400c40",
+      "fbx_sha256": "008678770b65402434a4993674f8c2ab1104efa7f1844eb66421684c1a57c356",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF081_Front_Facing_Teal_Boxing_Portrait\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned skin/cloth roughness range to0.38-0.73",
+        "Removed spurious metallic response from skin/cloth"
+      ]
+    },
+    {
+      "ref": "REF082",
+      "name": "Full-Body Athlete in Maroon Shorts",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19587,
+      "triangles": 19586,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\REF082_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\REF082_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\REF082_CLEAN.fbx",
+      "native_sha256": "f408f00411f6b64e5048c6c1cf4bd6377981cb4203aa5d9dc50a87ef77902d64",
+      "glb_sha256": "3f25e1efa9d42e19f1c5186a32a1740ff758ce84c1319e985ad47bc8aa399d6b",
+      "fbx_sha256": "c245c4d9338c6d60455aaeaa781edba809b3785f53864782c4b600788b98e789",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned physically plausible roughness; reduced plastic-like gloss",
+        "Removed spurious metallic response from skin/cloth",
+        "Retained original reference-derived hair/face; rejected extra crown that changed the silhouette",
+        "Canonicalized subpixel duplicate export faces"
+      ]
+    },
+    {
+      "ref": "REF083",
+      "name": "Full-Body Athletic Portrait",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 19808,
+      "triangles": 19808,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF083_Full_Body_Athletic_Portrait\\REF083_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF083_Full_Body_Athletic_Portrait\\REF083_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF083_Full_Body_Athletic_Portrait\\REF083_CLEAN.fbx",
+      "native_sha256": "005b47e3c65e58633ab7586de45d7f3f29a0dcc1c47499e8d640f9d08b58c915",
+      "glb_sha256": "b03575c6ccab67934ede309c4af36ad97e139d7365d071a27cc64961bc790477",
+      "fbx_sha256": "98c372da8211e4e446654c0d7efb01d41636c1dbe050f7840cd63c6afd584d8c",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF083_Full_Body_Athletic_Portrait\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+        "Tuned physically plausible roughness; reduced plastic-like gloss",
+        "Removed spurious metallic response from skin/cloth",
+        "Retained original reference-derived hair/face; rejected extra crown that changed the silhouette"
+      ]
+    },
+    {
+      "ref": "REF084",
+      "name": "Full-Body Athletic Studio Portrait",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 5008,
+      "triangles": 5008,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF084_Full_Body_Athletic_Studio_Portrait\\REF084_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF084_Full_Body_Athletic_Studio_Portrait\\REF084_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF084_Full_Body_Athletic_Studio_Portrait\\REF084_CLEAN.fbx",
+      "native_sha256": "4b13308791bc8641b2e33fc1d97c5cb1b04131f08a244e3aff2c0e240eedb88a",
+      "glb_sha256": "5bf484b86c48c7b0dbc4b89162ee22c0cd05723eeecccf69b0d11223360ff286",
+      "fbx_sha256": "5b2d393ff5d78b7a85b95e9797a19896f5d72e5f782d2fd26ec1a3b831b97500",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF084_Full_Body_Athletic_Studio_Portrait\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Normalized metres, floor pivot and centered horizontal origin",
+        "Merged coincident vertices, removed loose wire vertices and recalculated normals"
+      ]
+    },
+    {
+      "ref": "REF118",
+      "name": "Maroon Satin Hooded Robe with Black Trim",
+      "status": "CLEANUP_VISUAL_PASS",
+      "raw_triangles": 18629,
+      "triangles": 40036,
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\REF118_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\REF118_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\REF118_CLEAN.fbx",
+      "native_sha256": "f3f37ff6e6f15ca6ea2accc5eba8c74f6c84d73e0067898767361e5840e8d07c",
+      "glb_sha256": "1df7db9acefc6a31ee1244b336fb8f5ce9e54bbe7e17515506f7d281bc063c89",
+      "fbx_sha256": "4533ac1847313ce19cc868c90ca9e5e908f90c5b71fc798c7e12f6ef04a7350d",
+      "validation": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\CLEANUP_VALIDATION.json",
+      "edits": [
+        "Rebuilt robe as original Blender geometry with a shared connected torso, sleeve-root and hood mesh, replacing damaged generated underarms",
+        "Authored smooth satin folds, open cuffs and hood, physical lining thickness, continuous hem/lapel facing and a wrapped cloth sash with knot and draped ends",
+        "Preserved reference garment identity: maroon satin with broad black facings; floor pivot and metric scale",
+        "Portable PBR materials and authored UVs; no new model downloads, paid generation or Tripo credits",
+        "Static presentation only: character-specific fitting and animation deformation remain pending"
+      ]
+    }
+  ],
+  "lods": [
+    {
+      "ref": "REF008_LOD1",
+      "status": "CLEANUP_EXPORTED_VISUAL_REVIEW_PENDING",
+      "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\original_export\\HALGAN_REF008_existing.zip",
+      "source_archive_sha256": "03fc67b67ececb8162eb5f6f2cb9e93acc65abf84cb2f55b1f8fd3eb3ea8c0f6",
+      "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Man in Purple Boxing Shorts\\Athletic Man in Purple Boxing Shorts.png",
+      "source_image_sha256": "7d613997537b94a83af4d2ea42ebdf26acc82895e349a6b3c4281efa60af18a2",
+      "triangles": 12000,
+      "vertices": 7883,
+      "materials": 1,
+      "world_bounds_metres": [
+        [
+          -0.5150402784347534,
+          0.5143809914588928
+        ],
+        [
+          -0.1691623479127884,
+          0.1687765121459961
+        ],
+        [
+          0.00045943440636619925,
+          1.7997102737426758
+        ]
+      ],
+      "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+      "native_reopened": true,
+      "current_glb_reimported": true,
+      "missing_textures": [],
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\LOD1\\REF008_LOD1_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\LOD1\\REF008_LOD1_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\LOD1\\REF008_LOD1_CLEAN.fbx",
+      "native_sha256": "b221e289de5a41a6c9dffd43c6b145f9296f18f8855c91fbdefc56d8ca88f67e",
+      "glb_sha256": "60f24fcd29ba80baf8b4c188a8db0c96cc3ca392df5a6e6a86474dd9acdbd64c",
+      "fbx_sha256": "caf47fe9719cd994f5eb2cd65be0cfb7596522d7cf9675d2333574ab46b920e8",
+      "edits": [
+        "Derived from24k LOD0 with original UV/material/identity retained",
+        "Intended maximum approximate screen height 240pixels; runtime LOD switching/performance not tested"
+      ],
+      "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+      "tripo_credits_added": 0,
+      "fbx_reimported": true,
+      "fbx_missing_textures": []
+    },
+    {
+      "ref": "REF008_LOD2",
+      "status": "CLEANUP_EXPORTED_VISUAL_REVIEW_PENDING",
+      "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\original_export\\HALGAN_REF008_existing.zip",
+      "source_archive_sha256": "03fc67b67ececb8162eb5f6f2cb9e93acc65abf84cb2f55b1f8fd3eb3ea8c0f6",
+      "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Man in Purple Boxing Shorts\\Athletic Man in Purple Boxing Shorts.png",
+      "source_image_sha256": "7d613997537b94a83af4d2ea42ebdf26acc82895e349a6b3c4281efa60af18a2",
+      "triangles": 4000,
+      "vertices": 3123,
+      "materials": 1,
+      "world_bounds_metres": [
+        [
+          -0.5163106918334961,
+          0.5154162645339966
+        ],
+        [
+          -0.16861321032047272,
+          0.1705411970615387
+        ],
+        [
+          0.0011990551138296723,
+          1.7992563247680664
+        ]
+      ],
+      "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+      "native_reopened": true,
+      "current_glb_reimported": true,
+      "missing_textures": [],
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\LOD2\\REF008_LOD2_CLEAN.blend",
+      "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\LOD2\\REF008_LOD2_CLEAN.glb",
+      "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\LOD2\\REF008_LOD2_CLEAN.fbx",
+      "native_sha256": "2c49aeeaa781041d0e132e341b9a112f72a192769566adb3aaad1b5070822886",
+      "glb_sha256": "3ab079d6e025f4c08afc9f9c7a0535077e9a0a58b8507fc68a59b8f643a5b80b",
+      "fbx_sha256": "89f88dcd15f005e371a334ad5d78523f7a564cf2e957e94bcca26cbf55864480",
+      "edits": [
+        "Derived from24k LOD0 with original UV/material/identity retained",
+        "Intended maximum approximate screen height 100pixels; runtime LOD switching/performance not tested"
+      ],
+      "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+      "tripo_credits_added": 0,
+      "fbx_reimported": true,
+      "fbx_missing_textures": []
+    }
+  ],
+  "relocation_record": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\MOVE_LOG.csv"
+}

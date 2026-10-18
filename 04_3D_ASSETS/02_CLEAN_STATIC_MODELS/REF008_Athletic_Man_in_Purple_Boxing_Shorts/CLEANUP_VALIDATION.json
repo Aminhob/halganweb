@@ -1,0 +1,49 @@
+{
+  "ref": "REF008",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\original_export\\HALGAN_REF008_existing.zip",
+  "source_archive_sha256": "03fc67b67ececb8162eb5f6f2cb9e93acc65abf84cb2f55b1f8fd3eb3ea8c0f6",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Man in Purple Boxing Shorts\\Athletic Man in Purple Boxing Shorts.png",
+  "source_image_sha256": "7d613997537b94a83af4d2ea42ebdf26acc82895e349a6b3c4281efa60af18a2",
+  "triangles": 24000,
+  "vertices": 14594,
+  "materials": 1,
+  "world_bounds_metres": [
+    [
+      -0.5150144100189209,
+      0.5143231749534607
+    ],
+    [
+      -0.1691623479127884,
+      0.16885271668434143
+    ],
+    [
+      0.00015973582048900425,
+      1.799669623374939
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\REF008_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\REF008_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\REF008_CLEAN.fbx",
+  "native_sha256": "242dd8fb331a8081d00c9226fba3244b59e51faa0fb24a2859ba191722dc700b",
+  "glb_sha256": "3483717de01789e2f8f378e3a9ff78c1e6ca773665892135f3a4352da0c27dba",
+  "fbx_sha256": "13087f1580792e1d198614b96e9193c0b9a58d7fe020a611fe6456deb310b7e3",
+  "edits": [
+    "Normalized metres, floor pivot and centered horizontal origin",
+    "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+    "Reduced dense fighter from1950508 to24000 triangles using source UV/textures",
+    "Raised skin/cloth roughness range to0.43-0.83",
+    "Removed spurious metallic response from skin/cloth"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "visual_review_note": "Static source-relative front/rear review and current native/GLB/FBX imports passed; rigging/deformation/runtime remain pending.",
+  "visual_review_scope": "Static reference-relative front and rear review; no rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T19:49:56.423124+00:00"
+}

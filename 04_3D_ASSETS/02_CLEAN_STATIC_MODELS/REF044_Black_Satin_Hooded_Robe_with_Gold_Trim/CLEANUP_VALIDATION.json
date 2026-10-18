@@ -1,0 +1,54 @@
+{
+  "ref": "REF044",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\original_export\\HALGAN_REF044.zip",
+  "source_archive_sha256": "dfde374930f26faf673087fa2766e49fc7c2c17220de9e5f8372945bcffa4753",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Black Satin Hooded Robe with Gold Trim\\Black Satin Hooded Robe with Gold Trim.png",
+  "source_image_sha256": "d1dc3b1ccece2014bc9ce15d3e71a4d190b51160e171f27a1d23451c742ecc57",
+  "triangles": 40036,
+  "vertices": 25852,
+  "materials": 3,
+  "world_bounds_metres": [
+    [
+      -0.5844395756721497,
+      0.5844395756721497
+    ],
+    [
+      -0.19509431719779968,
+      0.19509431719779968
+    ],
+    [
+      0.0,
+      1.4800001382827759
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\REF044_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\REF044_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\REF044_CLEAN.fbx",
+  "native_sha256": "b2c14ab8cc0f70c1c45c5ac7ef0b98a51aa65b025e8854ce446baee0adfc6783",
+  "glb_sha256": "f0f854db43a24be39921398ee74219b9667b5b163b281bf0ff2242428138681f",
+  "fbx_sha256": "baddde61e92ce6bbb3d0fa88bed79f23871823ef2c5741fd30704cfac584cec9",
+  "edits": [
+    "Rebuilt robe as original Blender geometry with a shared connected torso, sleeve-root and hood mesh, replacing damaged generated underarms",
+    "Authored smooth satin folds, open cuffs and hood, physical lining thickness, continuous hem/lapel facing and a wrapped cloth sash with knot and draped ends",
+    "Preserved reference garment identity: black satin with narrow gold piping; floor pivot and metric scale",
+    "Portable PBR materials and authored UVs; no new model downloads, paid generation or Tripo credits",
+    "Static presentation only: character-specific fitting and animation deformation remain pending"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "validated_working_paths": {
+    "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\_CLEANUP_V1\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\REF044_CLEAN.blend",
+    "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\_CLEANUP_V1\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\REF044_CLEAN.glb",
+    "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\_CLEANUP_V1\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\REF044_CLEAN.fbx"
+  },
+  "relocation": "Byte-identical copy of independently reopened/reimported current working files to current delivery folder; originals and rejected versions retained in OLD",
+  "visual_review_scope": "Current GLB front/rear and current FBX front reviewed against original source; static reference identity/proportions/materials and absence of generated underarm damage; no bodyfit/rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T20:04:08.510328+00:00"
+}

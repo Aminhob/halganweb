@@ -1,0 +1,27 @@
+{
+  "logo_metallic.png": {
+    "workspace_source": "HALGAN_FULL_BRANDING_APPROVED_2026\\01_OFFICIAL_LOGOS\\HALGAN_metallic_native.png",
+    "sha256": "2442e9ee26f3b2cc891abdc17fd40005b8ea71b05a994a19552851bd2d1ee6fe",
+    "usage": "Approved HALGAN identity artwork"
+  },
+  "logo_white.png": {
+    "workspace_source": "HALGAN_FULL_BRANDING_APPROVED_2026\\01_OFFICIAL_LOGOS\\HALGAN_white_native.png",
+    "sha256": "177afe6b1dada16e07a512f02c467d487ade8aafdf47aaffdee3948c72150b4e",
+    "usage": "Approved HALGAN identity artwork"
+  },
+  "approved_icon.png": {
+    "workspace_source": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\01_BRANDING\\ICONS_FINAL_V2\\halgan-icon-master.png",
+    "sha256": "6b5705f90c216a2308e417d5aabf08574e15146d03d96b306a4742ea7542973c",
+    "usage": "Current owner-selected FINAL V2 app/profile identity"
+  },
+  "arena.png": {
+    "workspace_source": "2D UI assets\\Cinematic Red-Blue Boxing Arena.png",
+    "sha256": "da5bc623b7784f518185dc5eb2955d85050ba7072a00c56f176e3e6166cafa27",
+    "usage": "Supplied HALGAN workspace background imagery"
+  },
+  "gym.png": {
+    "workspace_source": "2D UI assets\\Cinematic Empty Boxing Arena.png",
+    "sha256": "379ee87e26e88001ad1904e647fda9480b8ec553f715deaebbec82b7a60fc84a",
+    "usage": "Supplied HALGAN workspace background imagery"
+  }
+}

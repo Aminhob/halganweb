@@ -1,0 +1,509 @@
+{
+  "pk": 30843,
+  "url": "https://www.blenderkit.com/api/v1/assets/1191ea28-f659-4766-aa80-0b454d8dc382/",
+  "id": "1191ea28-f659-4766-aa80-0b454d8dc382",
+  "assetBaseId": "1dcca4af-6e33-4225-8103-aee2ddf21cb1",
+  "versionNumber": 1,
+  "author": {
+    "id": 102145,
+    "firstName": "AmJViZ",
+    "lastName": "",
+    "gravatarHash": "214ab418f4ba553845b5dbda222b9018",
+    "avatar128": "/avatar-redirect/ff8d850d-83f3-487c-a0a0-62f600ab8702/128/",
+    "avatar256": "/avatar-redirect/ff8d850d-83f3-487c-a0a0-62f600ab8702/256/",
+    "avatar512": "/avatar-redirect/ff8d850d-83f3-487c-a0a0-62f600ab8702/512/",
+    "aboutMe": "My dedicated team and I ( Amir Jafari ) are open to collaborations and try to provide high quality 3D assets.\r\n\r\nLinked-in : https://www.linkedin.com/in/amirmahdi-jafari-486892195/\r\ncontact me : amirmahdijafari90@gmail.com",
+    "aboutMeUrl": "https://amjviz.artstation.com/",
+    "fullName": "AmJViZ ",
+    "socialNetworks": [
+      {
+        "socialNetwork": {
+          "name": "Instagram",
+          "icon": "<i class=\"fab fa-instagram\" title=\"Instagram\"></i><span class=\"sr-only\">Instagram</span>",
+          "order": 3
+        },
+        "url": "https://www.instagram.com/amjviz"
+      },
+      {
+        "socialNetwork": {
+          "name": "ArtStation",
+          "icon": "<i class=\"fab fa-artstation\" title=\"ArtStation\"></i><span class=\"sr-only\">ArtStation</span>",
+          "order": 5
+        },
+        "url": "https://www.artstation.com/amjviz"
+      }
+    ]
+  },
+  "name": "Hyundai veloster sport car",
+  "displayName": "Hyundai veloster sport car",
+  "description": "High detailed exterior with low detail interior , good for exterior renders and tuning",
+  "descriptionHtml": "<p>High detailed exterior with low detail interior , good for exterior renders and tuning</p>",
+  "assetType": "model",
+  "category": "standard",
+  "isFree": true,
+  "isForSale": false,
+  "basePrice": null,
+  "tags": [
+    "car",
+    "veloster",
+    "hyundai",
+    "3d",
+    "model",
+    "free",
+    "blender",
+    "transport"
+  ],
+  "license": "royalty_free",
+  "sourceAppName": "blender",
+  "sourceAppVersion": "3.1.0",
+  "addonVersion": "3.1.1",
+  "created": "2022-04-09T11:03:41.324987+02:00",
+  "lastUserInteraction": "2022-04-15T20:48:15.907282+02:00",
+  "verificationStatus": "validated",
+  "isPrivate": false,
+  "files": [
+    {
+      "fileType": "blend",
+      "id": 111517,
+      "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/b169bc13-c443-4933-b45d-b78ee8ad3c77/",
+      "uuid": "b169bc13-c443-4933-b45d-b78ee8ad3c77",
+      "created": "2022-04-15T20:48:14.166447+02:00",
+      "isThumbnail": false,
+      "modified": "2024-07-08T11:39:42.078218+02:00",
+      "mimeType": null,
+      "resolution": null,
+      "fileUploadSize": 6012569,
+      "isFeatured": false,
+      "filename": "assets/1191ea28f6594766aa800b454d8dc382/files/blend_0feb8092-9f0b-463e-99fb-b9cc746a3ae4.blend",
+      "flexFactor": null
+    },
+    {
+      "fileType": "resolution_0_5K",
+      "id": 128546,
+      "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/f74a2c57-3c90-4a47-a61e-723382a6ad01/",
+      "uuid": "f74a2c57-3c90-4a47-a61e-723382a6ad01",
+      "created": "2022-07-22T14:25:27.770429+02:00",
+      "isThumbnail": false,
+      "modified": "2024-07-08T11:39:42.098865+02:00",
+      "mimeType": null,
+      "resolution": null,
+      "fileUploadSize": 2151045,
+      "isFeatured": false,
+      "filename": "assets/1191ea28f6594766aa800b454d8dc382/files/resolution_0_5K_651498b5-ea4f-45e9-aea9-95aa41dc0802.blend",
+      "flexFactor": null
+    },
+    {
+      "fileType": "resolution_1K",
+      "id": 128545,
+      "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/ee6e6022-0937-4114-9547-e1fac36bdd3b/",
+      "uuid": "ee6e6022-0937-4114-9547-e1fac36bdd3b",
+      "created": "2022-07-22T14:25:25.706825+02:00",
+      "isThumbnail": false,
+      "modified": "2024-07-08T11:39:42.115234+02:00",
+      "mimeType": null,
+      "resolution": null,
+      "fileUploadSize": 2396736,
+      "isFeatured": false,
+      "filename": "assets/1191ea28f6594766aa800b454d8dc382/files/resolution_1K_8e9c8b13-2cb6-4ac9-88dc-1994932eb971.blend",
+      "flexFactor": null
+    },
+    {
+      "fileType": "resolution_2K",
+      "id": 128544,
+      "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/19889f60-5aaf-4ed3-9f57-11db4f67b879/",
+      "uuid": "19889f60-5aaf-4ed3-9f57-11db4f67b879",
+      "created": "2022-07-22T14:25:23.537608+02:00",
+      "isThumbnail": false,
+      "modified": "2024-07-08T11:39:42.132655+02:00",
+      "mimeType": null,
+      "resolution": null,
+      "fileUploadSize": 5652625,
+      "isFeatured": false,
+      "filename": "assets/1191ea28f6594766aa800b454d8dc382/files/resolution_2K_df236224-d773-4829-9930-75771d7f498b.blend",
+      "flexFactor": null
+    },
+    {
+      "fileType": "thumbnail",
+      "id": 110823,
+      "downloadUrl": "https://www.blenderkit.com/api/v1/downloads/39ef0bf0-9fc3-4c1d-8fe1-204309cdafb8/",
+      "uuid": "39ef0bf0-9fc3-4c1d-8fe1-204309cdafb8",
+      "fileThumbnail": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.96x96_q85_crop-%2C.jpg",
+      "fileThumbnailLarge": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.1024x1024_q85_crop-%2C.jpg",
+      "created": "2022-04-09T11:03:55.101578+02:00",
+      "isThumbnail": true,
+      "modified": "2025-12-22T18:17:54.490087+01:00",
+      "mimeType": null,
+      "resolution": null,
+      "fileUploadSize": 1601615,
+      "width": 1920,
+      "height": 1920,
+      "isFeatured": false,
+      "filename": "assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg",
+      "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.256x256_q85_crop-%2C.jpg",
+      "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.512x512_q85_crop-%2C.jpg",
+      "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.1024x1024_q85_crop-%2C.jpg",
+      "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.2048x2048_q85_crop-%2C.jpg",
+      "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.256x256_q85.jpg",
+      "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.512x512_q85.jpg",
+      "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.1024x1024_q85.jpg",
+      "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.2048x2048_q85.jpg",
+      "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1766452492",
+      "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1766452492",
+      "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1766452492",
+      "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1766452492",
+      "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.256x256_q85.jpg.webp?webp_generated=1766452492",
+      "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.512x512_q85.jpg.webp?webp_generated=1766452492",
+      "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.1024x1024_q85.jpg.webp?webp_generated=1766452492",
+      "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.2048x2048_q85.jpg.webp?webp_generated=1766452492",
+      "thumbnailSocialUrl": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.1200x630_q85_background-black.jpg",
+      "animationUrl": null,
+      "flexFactor": null
+    }
+  ],
+  "filesSize": 17814590,
+  "showMarketingLabels": true,
+  "webpGeneratedTimestamp": 1766452492,
+  "score": 944.4444444444445,
+  "ratingsMedian": {
+    "bookmarks": 1.0,
+    "workingHours": 10.0,
+    "quality": 10.0,
+    "virtualPrice": null
+  },
+  "ratingsAverage": {
+    "bookmarks": 0.9856887298747764,
+    "workingHours": 10.0,
+    "quality": 9.444444444444445,
+    "virtualPrice": null
+  },
+  "ratingsCount": {
+    "bookmarks": 559,
+    "workingHours": 7,
+    "quality": 9,
+    "virtualPrice": 0
+  },
+  "ratingsSum": {
+    "bookmarks": 551.0,
+    "workingHours": 420.5,
+    "quality": 85.0,
+    "virtualPrice": null,
+    "score": 944.4444444444445
+  },
+  "pageBlocks": null,
+  "access": "free",
+  "accessLabel": "Free",
+  "videoLink": "",
+  "dictParameters": {
+    "sexualizedContent": false,
+    "joinBlenderkitDiscounts": true,
+    "addons": true,
+    "platforms": [
+      "windows-x64",
+      "macos-arm64",
+      "linux-x64",
+      "macos-x64",
+      "windows-arm64"
+    ],
+    "faceCount": 18168,
+    "productionLevel": "finished",
+    "procedural": true,
+    "modelStyle": "realistic",
+    "condition": "new",
+    "manufacturer": "Hyundai",
+    "validatedManufacturer": true,
+    "validatedManufacturerDate": "2026-09-07T23:19:01.073678+00:00",
+    "validatedManufacturerOutput": "Hyundai is a known automotive manufacturer, and the Hyundai Veloster is a real production model that was available in 2016. No corrections needed.",
+    "validatedManufacturerActor": "ai",
+    "designYear": 2016,
+    "shaders": [
+      ""
+    ],
+    "uv": true,
+    "engines": [
+      "cycles"
+    ],
+    "modifiers": [
+      "subsurf",
+      "mirror",
+      "solidify"
+    ],
+    "materials": [
+      "Body Plastic",
+      "Windows Glass",
+      "tire.001",
+      "interior",
+      "chrome.002",
+      "HEADLIGHTGLASS",
+      "alloy",
+      "Car Paint .001",
+      "chrome",
+      "HEADLIGHTGLASS.001",
+      "Chrome",
+      "Plastic",
+      "Headlight plastic",
+      "Emissive powerful",
+      "Emissive",
+      "plastic.001",
+      "plate",
+      "disk.001",
+      "tire",
+      "disk",
+      "Material.004",
+      "WHEEL",
+      "BMW LOGO",
+      "BACK LIGHT NEON",
+      "Body 01"
+    ],
+    "rig": false,
+    "simulation": false,
+    "dimensionX": 1.8524,
+    "dimensionY": 3.958,
+    "dimensionZ": 1.3034,
+    "boundBoxMinX": -0.9262,
+    "boundBoxMinY": -2.0306,
+    "boundBoxMinZ": 0.0031,
+    "boundBoxMaxX": 0.9262,
+    "boundBoxMaxY": 1.9274,
+    "boundBoxMaxZ": 1.3065,
+    "faceCountRender": 572674,
+    "meshPolyType": "quad_dominant",
+    "manifold": false,
+    "objectCount": 47,
+    "nodeCount": 0,
+    "textureCount": 0,
+    "megapixels": 0,
+    "imageCaptionInterrogator": "a couple of pictures of a black car with a black roof, highly detailed 3d render, detailed body and face, anvill, dark tint, video game graphics, same body, the argo, highly detailed muted colors, whip",
+    "imageAltTextGen3": "\"Hyundai Veloster Sport Car - Detailed Exterior 3D Model for Blender 3D. Low Detail Interior. Perfect for Exterior Renders and Tuning. Black Car with Black Roof, Anvill, Dark Tint, and Muted Colors.\""
+  },
+  "lastVideoUpload": null,
+  "lastGltfUpload": null,
+  "lastGltfGodotUpload": null,
+  "lastBlendUpload": "2022-04-15T18:48:14.166447+00:00",
+  "lastAnimatedThumbnailUpload": null,
+  "lastZipFileUpload": null,
+  "lastResolutionUpload": "2022-07-22T12:25:27.770429+00:00",
+  "lastPhotoThumbnailUpload": null,
+  "lastPrxcUpload": null,
+  "lastThumbnailUpload": "2022-04-09T09:03:55.101578+00:00",
+  "lastWireThumbnailUpload": null,
+  "canDownload": true,
+  "canDownloadError": true,
+  "parameters": [
+    {
+      "parameterType": "sexualizedContent",
+      "value": false
+    },
+    {
+      "parameterType": "joinBlenderkitDiscounts",
+      "value": true
+    },
+    {
+      "parameterType": "addons",
+      "value": true
+    },
+    {
+      "parameterType": "platforms",
+      "value": [
+        "windows-x64",
+        "macos-arm64",
+        "linux-x64",
+        "macos-x64",
+        "windows-arm64"
+      ]
+    },
+    {
+      "parameterType": "faceCount",
+      "value": 18168
+    },
+    {
+      "parameterType": "productionLevel",
+      "value": "finished"
+    },
+    {
+      "parameterType": "procedural",
+      "value": true
+    },
+    {
+      "parameterType": "modelStyle",
+      "value": "realistic"
+    },
+    {
+      "parameterType": "condition",
+      "value": "new"
+    },
+    {
+      "parameterType": "manufacturer",
+      "value": "Hyundai"
+    },
+    {
+      "parameterType": "validatedManufacturer",
+      "value": true
+    },
+    {
+      "parameterType": "validatedManufacturerDate",
+      "value": "2026-09-07T23:19:01.073678+00:00"
+    },
+    {
+      "parameterType": "validatedManufacturerOutput",
+      "value": "Hyundai is a known automotive manufacturer, and the Hyundai Veloster is a real production model that was available in 2016. No corrections needed."
+    },
+    {
+      "parameterType": "validatedManufacturerActor",
+      "value": "ai"
+    },
+    {
+      "parameterType": "designYear",
+      "value": 2016
+    },
+    {
+      "parameterType": "shaders",
+      "value": [
+        ""
+      ]
+    },
+    {
+      "parameterType": "uv",
+      "value": true
+    },
+    {
+      "parameterType": "engines",
+      "value": [
+        "cycles"
+      ]
+    },
+    {
+      "parameterType": "modifiers",
+      "value": [
+        "subsurf",
+        "mirror",
+        "solidify"
+      ]
+    },
+    {
+      "parameterType": "materials",
+      "value": [
+        "Body Plastic",
+        "Windows Glass",
+        "tire.001",
+        "interior",
+        "chrome.002",
+        "HEADLIGHTGLASS",
+        "alloy",
+        "Car Paint .001",
+        "chrome",
+        "HEADLIGHTGLASS.001",
+        "Chrome",
+        "Plastic",
+        "Headlight plastic",
+        "Emissive powerful",
+        "Emissive",
+        "plastic.001",
+        "plate",
+        "disk.001",
+        "tire",
+        "disk",
+        "Material.004",
+        "WHEEL",
+        "BMW LOGO",
+        "BACK LIGHT NEON",
+        "Body 01"
+      ]
+    },
+    {
+      "parameterType": "rig",
+      "value": false
+    },
+    {
+      "parameterType": "simulation",
+      "value": false
+    },
+    {
+      "parameterType": "dimensionX",
+      "value": 1.8524
+    },
+    {
+      "parameterType": "dimensionY",
+      "value": 3.958
+    },
+    {
+      "parameterType": "dimensionZ",
+      "value": 1.3034
+    },
+    {
+      "parameterType": "boundBoxMinX",
+      "value": -0.9262
+    },
+    {
+      "parameterType": "boundBoxMinY",
+      "value": -2.0306
+    },
+    {
+      "parameterType": "boundBoxMinZ",
+      "value": 0.0031
+    },
+    {
+      "parameterType": "boundBoxMaxX",
+      "value": 0.9262
+    },
+    {
+      "parameterType": "boundBoxMaxY",
+      "value": 1.9274
+    },
+    {
+      "parameterType": "boundBoxMaxZ",
+      "value": 1.3065
+    },
+    {
+      "parameterType": "faceCountRender",
+      "value": 572674
+    },
+    {
+      "parameterType": "meshPolyType",
+      "value": "quad_dominant"
+    },
+    {
+      "parameterType": "manifold",
+      "value": false
+    },
+    {
+      "parameterType": "objectCount",
+      "value": 47
+    },
+    {
+      "parameterType": "nodeCount",
+      "value": 0
+    },
+    {
+      "parameterType": "textureCount",
+      "value": 0
+    },
+    {
+      "parameterType": "megapixels",
+      "value": 0
+    },
+    {
+      "parameterType": "imageCaptionInterrogator",
+      "value": "a couple of pictures of a black car with a black roof, highly detailed 3d render, detailed body and face, anvill, dark tint, video game graphics, same body, the argo, highly detailed muted colors, whip"
+    },
+    {
+      "parameterType": "imageAltTextGen3",
+      "value": "\"Hyundai Veloster Sport Car - Detailed Exterior 3D Model for Blender 3D. Low Detail Interior. Perfect for Exterior Renders and Tuning. Black Car with Black Roof, Anvill, Dark Tint, and Muted Colors.\""
+    }
+  ],
+  "thumbnailSmallUrl": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.256x256_q85_crop-%2C.jpg",
+  "thumbnailMiddleUrl": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.512x512_q85_crop-%2C.jpg",
+  "thumbnailLargeUrl": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.1024x1024_q85_crop-%2C.jpg",
+  "thumbnailXlargeUrl": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.2048x2048_q85_crop-%2C.jpg",
+  "thumbnailSmallUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.256x256_q85.jpg",
+  "thumbnailMiddleUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.512x512_q85.jpg",
+  "thumbnailLargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.1024x1024_q85.jpg",
+  "thumbnailXlargeUrlNonsquared": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.2048x2048_q85.jpg",
+  "thumbnailSmallUrlWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1766452492",
+  "thumbnailMiddleUrlWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1766452492",
+  "thumbnailLargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1766452492",
+  "thumbnailXlargeUrlWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.2048x2048_q85_crop-%2C.jpg.webp?webp_generated=1766452492",
+  "thumbnailSmallUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.256x256_q85.jpg.webp?webp_generated=1766452492",
+  "thumbnailMiddleUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.512x512_q85.jpg.webp?webp_generated=1766452492",
+  "thumbnailLargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.1024x1024_q85.jpg.webp?webp_generated=1766452492",
+  "thumbnailXlargeUrlNonsquaredWebp": "https://public.blenderkit.com/thumbnails/assets/1191ea28f6594766aa800b454d8dc382/files/thumbnail_e77c501a-e5e1-429b-b508-10d31f21df81.jpg.2048x2048_q85.jpg.webp?webp_generated=1766452492"
+}

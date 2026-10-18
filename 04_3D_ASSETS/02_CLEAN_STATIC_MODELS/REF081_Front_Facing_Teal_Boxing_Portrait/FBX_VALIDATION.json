@@ -1,0 +1,11 @@
+{
+  "ref": "REF081",
+  "current_fbx_reimported": true,
+  "triangles": 19073,
+  "expected_triangles": 19073,
+  "bounds_match_under_3mm": true,
+  "missing_textures": [],
+  "embedded_or_resolved_images": 4,
+  "material_scalar_channels_repacked": 0,
+  "fbx_sha256": "008678770b65402434a4993674f8c2ab1104efa7f1844eb66421684c1a57c356"
+}

@@ -1,0 +1,43 @@
+{
+  "ref": "REF010",
+  "status": "CLEANUP_EXPORTED_VISUAL_REVIEW_PENDING",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\original_export\\HALGAN_REF010.zip",
+  "source_archive_sha256": "148549f377041c1a3ab69fa127a3c8ede58f12637949b4b929d9fb49ada6f23b",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Model in Minimalist Studio Pose\\Athletic Model in Minimalist Studio Pose.png",
+  "source_image_sha256": "6d0bf40f9745b81242e9af72cb000f8633ee672e8b54d103299fde6872d32444",
+  "triangles": 19518,
+  "vertices": 15127,
+  "materials": 1,
+  "world_bounds_metres": [
+    [
+      -0.5304203629493713,
+      0.5304275155067444
+    ],
+    [
+      -0.16218414902687073,
+      0.16217108070850372
+    ],
+    [
+      5.717071326216683e-05,
+      1.7998385429382324
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\REF010_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\REF010_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\REF010_CLEAN.fbx",
+  "native_sha256": "c10a42a56ad303f312c677836944a862e6fee347d3656f11ec4240b28afbbcbe",
+  "glb_sha256": "8f241fc2c2912e25216139e1ee5bd61cf64e2a0e552bee4a71e4339d075457c3",
+  "fbx_sha256": "328bae187d9cddb2ca082561776ffbcf3e4113b5615bd2fb18767edfc502e164",
+  "edits": [
+    "Normalized metres, floor pivot and centered horizontal origin",
+    "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+    "Raised skin/cloth roughness range to0.43-0.83",
+    "Removed spurious metallic response from skin/cloth"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0
+}

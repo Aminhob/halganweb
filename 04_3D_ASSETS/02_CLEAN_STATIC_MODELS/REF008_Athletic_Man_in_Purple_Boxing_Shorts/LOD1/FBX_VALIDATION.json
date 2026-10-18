@@ -1,0 +1,11 @@
+{
+  "ref": "REF008_LOD1",
+  "current_fbx_reimported": true,
+  "triangles": 12000,
+  "expected_triangles": 12000,
+  "bounds_match_under_3mm": true,
+  "missing_textures": [],
+  "embedded_or_resolved_images": 4,
+  "material_scalar_channels_repacked": 0,
+  "fbx_sha256": "caf47fe9719cd994f5eb2cd65be0cfb7596522d7cf9675d2333574ab46b920e8"
+}

@@ -1,0 +1,209 @@
+{
+  "status": "BRAND_ASSET_CHECKS_PASS",
+  "modified_existing_files": 21,
+  "protected_visual_and_font_files": 380,
+  "protected_files_unchanged": true,
+  "existing_palette_preserved": true,
+  "unity_project_modified": false,
+  "unity_compilation": "NOT_RUN: brand assets only per owner instruction",
+  "regression_tests": "NOT_RUN: no Unity changes",
+  "ui_before_after": "DEFERRED: no Unity changes",
+  "raster_rendering": "PASS: four real existing-layout renders",
+  "pixel_diff": [
+    {
+      "asset": "community",
+      "bounds": [
+        455,
+        525,
+        625,
+        532
+      ],
+      "blue_pixels": 1190
+    },
+    {
+      "asset": "updates",
+      "bounds": [
+        455,
+        525,
+        625,
+        532
+      ],
+      "blue_pixels": 1190
+    }
+  ],
+  "checks": [
+    {
+      "check": "Original visual/font assets unchanged",
+      "status": "PASS",
+      "detail": "380 files; PNG, SVG, JPG, PDF, TTF, WOFF and icon hashes"
+    },
+    {
+      "check": "Original six brand colors preserved",
+      "status": "PASS",
+      "detail": {
+        "black": "#090A0D",
+        "charcoal": "#171A20",
+        "punch_red": "#E50909",
+        "silver": "#C8CBD0",
+        "white": "#F4F5F7",
+        "muted": "#A5ABB6"
+      }
+    },
+    {
+      "check": "Synchronized palette: 01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026",
+      "status": "PASS",
+      "detail": "Same palette and semantic roles in all three existing token files"
+    },
+    {
+      "check": "CSS font/color policy: 01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026",
+      "status": "PASS",
+      "detail": "300/400/500/600 only; existing red primary; blue secondary"
+    },
+    {
+      "check": "Generator parses and excludes prohibited face: build_approved_branding.py / 01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026",
+      "status": "PASS",
+      "detail": "Python AST parse; no full asset regeneration claimed"
+    },
+    {
+      "check": "Generator default font resolves: 01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026",
+      "status": "PASS",
+      "detail": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026\\11_OFFICIAL_FONTS\\static\\Teko-SemiBold.ttf"
+    },
+    {
+      "check": "Renderer rejects prohibited weights: 01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026",
+      "status": "PASS",
+      "detail": "Rendering validation rejects any SVG text weight outside 300/400/500/600"
+    },
+    {
+      "check": "Synchronized palette: 02_SOCIAL_MEDIA\\HALGAN_OFFICIAL_SOCIAL_MEDIA_2026",
+      "status": "PASS",
+      "detail": "Same palette and semantic roles in all three existing token files"
+    },
+    {
+      "check": "CSS font/color policy: 02_SOCIAL_MEDIA\\HALGAN_OFFICIAL_SOCIAL_MEDIA_2026",
+      "status": "PASS",
+      "detail": "300/400/500/600 only; existing red primary; blue secondary"
+    },
+    {
+      "check": "Generator parses and excludes prohibited face: build_social_media.py / 02_SOCIAL_MEDIA\\HALGAN_OFFICIAL_SOCIAL_MEDIA_2026",
+      "status": "PASS",
+      "detail": "Python AST parse; no full asset regeneration claimed"
+    },
+    {
+      "check": "Generator default font resolves: 02_SOCIAL_MEDIA\\HALGAN_OFFICIAL_SOCIAL_MEDIA_2026",
+      "status": "PASS",
+      "detail": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\02_SOCIAL_MEDIA\\HALGAN_OFFICIAL_SOCIAL_MEDIA_2026\\08_FONTS\\static\\Teko-SemiBold.ttf"
+    },
+    {
+      "check": "Renderer rejects prohibited weights: 02_SOCIAL_MEDIA\\HALGAN_OFFICIAL_SOCIAL_MEDIA_2026",
+      "status": "PASS",
+      "detail": "Rendering validation rejects any SVG text weight outside 300/400/500/600"
+    },
+    {
+      "check": "Synchronized palette: 01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026\\04_SOCIAL_MEDIA\\OFFICIAL_SOCIAL_MEDIA_KIT",
+      "status": "PASS",
+      "detail": "Same palette and semantic roles in all three existing token files"
+    },
+    {
+      "check": "CSS font/color policy: 01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026\\04_SOCIAL_MEDIA\\OFFICIAL_SOCIAL_MEDIA_KIT",
+      "status": "PASS",
+      "detail": "300/400/500/600 only; existing red primary; blue secondary"
+    },
+    {
+      "check": "Generator parses and excludes prohibited face: build_social_media.py / 01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026\\04_SOCIAL_MEDIA\\OFFICIAL_SOCIAL_MEDIA_KIT",
+      "status": "PASS",
+      "detail": "Python AST parse; no full asset regeneration claimed"
+    },
+    {
+      "check": "Generator default font resolves: 01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026\\04_SOCIAL_MEDIA\\OFFICIAL_SOCIAL_MEDIA_KIT",
+      "status": "PASS",
+      "detail": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026\\04_SOCIAL_MEDIA\\OFFICIAL_SOCIAL_MEDIA_KIT\\08_FONTS\\static\\Teko-SemiBold.ttf"
+    },
+    {
+      "check": "Renderer rejects prohibited weights: 01_BRANDING\\HALGAN_FULL_BRANDING_APPROVED_2026\\04_SOCIAL_MEDIA\\OFFICIAL_SOCIAL_MEDIA_KIT",
+      "status": "PASS",
+      "detail": "Rendering validation rejects any SVG text weight outside 300/400/500/600"
+    },
+    {
+      "check": "Four real-layout raster renders",
+      "status": "PASS",
+      "detail": "1080x1080; packaged Teko SemiBold loaded; text stays within canvas"
+    },
+    {
+      "check": "Only existing underline changes: community",
+      "status": "PASS",
+      "detail": {
+        "pixel_difference_bounds": [
+          455,
+          525,
+          625,
+          532
+        ],
+        "expected": [
+          455,
+          525,
+          625,
+          532
+        ]
+      }
+    },
+    {
+      "check": "Exact electric blue export: community",
+      "status": "PASS",
+      "detail": {
+        "exact_blue_pixels": 1190,
+        "expected": 1190
+      }
+    },
+    {
+      "check": "Original primary red retained: community",
+      "status": "PASS",
+      "detail": "Existing red circle retained; only the underline changes"
+    },
+    {
+      "check": "Only existing underline changes: updates",
+      "status": "PASS",
+      "detail": {
+        "pixel_difference_bounds": [
+          455,
+          525,
+          625,
+          532
+        ],
+        "expected": [
+          455,
+          525,
+          625,
+          532
+        ]
+      }
+    },
+    {
+      "check": "Exact electric blue export: updates",
+      "status": "PASS",
+      "detail": {
+        "exact_blue_pixels": 1190,
+        "expected": 1190
+      }
+    },
+    {
+      "check": "Original primary red retained: updates",
+      "status": "PASS",
+      "detail": "Existing red circle retained; only the underline changes"
+    },
+    {
+      "check": "Canonical manifest file hashes",
+      "status": "PASS",
+      "detail": "265 existing manifest entries verified"
+    },
+    {
+      "check": "Exact modification ledger",
+      "status": "PASS",
+      "detail": "21 changed pre-existing files with originals backed up"
+    }
+  ],
+  "legacy_typography": "NOT_CERTIFIED: existing historical exports retained; see legacy-typography-inventory.json",
+  "font_policy": "PASS for current token files, updated generators and four new SVG/PNG renders; no global legacy-export compliance claim",
+  "full_generator_regeneration": "NOT_RUN",
+  "android_landscape_validation": "NOT_RUN: Unity integration deferred by owner"
+}

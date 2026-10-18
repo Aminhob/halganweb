@@ -1,0 +1,162 @@
+{
+  "started_utc": "2026-10-16T23:41:13.208885+00:00",
+  "source_record": "_tracking/FINAL_HANDOFF_AUDIT.json",
+  "preserved_assets": [
+    {
+      "ref": "REF003",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF003_Athletic_Black_Man_in_Studio_Stance\\original_export\\HALGAN_REF003.zip",
+      "archive_sha256": "776d8170e90afe87695272a1e1ef2692e2447fd54fa5b5d45b3a69632998fd45",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF003_Athletic_Black_Man_in_Studio_Stance\\blender_handoff\\REF003_BLENDER_HANDOFF.blend",
+      "native_sha256": "0bb2c975be8f71481739a9914167eb647eb755f0d8db29567f799eb6daf3f144"
+    },
+    {
+      "ref": "REF004",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\original_export\\HALGAN_REF004.zip",
+      "archive_sha256": "1a3ca708bc61cd566a1cd02e79a3bb22eeee7a2a9c356c52273a34636ccece34",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF004_Athletic_Boxer_in_Blue_Shorts_1\\blender_handoff\\REF004_BLENDER_HANDOFF.blend",
+      "native_sha256": "ccaeccaf4afdb60f339ec8e3f0160bd3e1bab2ecbc5d441dfad741db075ae3c0"
+    },
+    {
+      "ref": "REF005",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF005_Athletic_Boxer_in_Blue_Shorts\\original_export\\HALGAN_REF005.zip",
+      "archive_sha256": "a8f3d170fbb2529d76b086d2b01daa22122a84921a9eadecfff2c1f96169fa70",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF005_Athletic_Boxer_in_Blue_Shorts\\blender_handoff\\REF005_BLENDER_HANDOFF.blend",
+      "native_sha256": "c142f7eb14bf1be7d791ff15e527a08d2da20d0a4a239e98d77bbde709ee993b"
+    },
+    {
+      "ref": "REF006",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF006_Athletic_Boxer_in_Studio_Light\\original_export\\HALGAN_REF006_existing.zip",
+      "archive_sha256": "ae72f6d12811a07918fa01639b50912b39c043604d1a85c6dad05c35400222ac",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF006_Athletic_Boxer_in_Studio_Light\\blender_handoff\\REF006_BLENDER_HANDOFF.blend",
+      "native_sha256": "8312ae03a75bbd615a366806d296f27532bf866d7fca19d6faa31f1dbf190cf2"
+    },
+    {
+      "ref": "REF007",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF007_Athletic_Boxer_in_White_Studio\\original_export\\HALGAN_REF007.zip",
+      "archive_sha256": "708e6bb981f3b5be7664268107b1bed58dbb1577a7c02494a506739cb97383fe",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF007_Athletic_Boxer_in_White_Studio\\blender_handoff\\REF007_BLENDER_HANDOFF.blend",
+      "native_sha256": "cda7f8e44b7841534695c8f409a11ec73d81d5079fb7a68fb08225a23c54d79d"
+    },
+    {
+      "ref": "REF008",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\original_export\\HALGAN_REF008_existing.zip",
+      "archive_sha256": "03fc67b67ececb8162eb5f6f2cb9e93acc65abf84cb2f55b1f8fd3eb3ea8c0f6",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF008_Athletic_Man_in_Purple_Boxing_Shorts\\blender_handoff\\REF008_BLENDER_HANDOFF.blend",
+      "native_sha256": "ea4f7158d96f9c50bd2526aabda46b8a963c55bbe44ce795ec63cdc9e4616082"
+    },
+    {
+      "ref": "REF009",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF009_Athletic_Man_in_Studio_Pose\\original_export\\HALGAN_REF009.zip",
+      "archive_sha256": "47caac864b3bb8f3aae1f3851fd562bf94728bcc54f048cf271096624f396708",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF009_Athletic_Man_in_Studio_Pose\\blender_handoff\\REF009_BLENDER_HANDOFF.blend",
+      "native_sha256": "993a916302ec48f7328709432346dc79c0411c024166c8e2a45abfd0ec8f9b32"
+    },
+    {
+      "ref": "REF010",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\original_export\\HALGAN_REF010.zip",
+      "archive_sha256": "148549f377041c1a3ab69fa127a3c8ede58f12637949b4b929d9fb49ada6f23b",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF010_Athletic_Model_in_Minimalist_Studio_Pose\\blender_handoff\\REF010_BLENDER_HANDOFF.blend",
+      "native_sha256": "524ff0bbb25e334b2a2f934ee82153b12939db76112a9fd878bb729cc41f2fdd"
+    },
+    {
+      "ref": "REF011",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF011_Athletic_Portrait_in_Burnt_Orange_Shorts\\original_export\\HALGAN_REF011.zip",
+      "archive_sha256": "863db022c6138e79a25d21b8e493e722c1d7c228f7a841719b0ec4a800d2ea75",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF011_Athletic_Portrait_in_Burnt_Orange_Shorts\\blender_handoff\\REF011_BLENDER_HANDOFF.blend",
+      "native_sha256": "ee6b62eadcf6b339fd161e6d4256e84826cb767b11ff79e89693a556fcb6698a"
+    },
+    {
+      "ref": "REF012",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF012_Athletic_Portrait_in_Golden_Shorts\\original_export\\HALGAN_REF012.zip",
+      "archive_sha256": "873f477dce1eee2ba1daadddeddf89776de29bf0c796900c970f4b0360e074ef",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF012_Athletic_Portrait_in_Golden_Shorts\\blender_handoff\\REF012_BLENDER_HANDOFF.blend",
+      "native_sha256": "b63d987e951a9d8828dff70af36cd91678b86adbcecf63bdb607d1e67b58ab98"
+    },
+    {
+      "ref": "REF013",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF013_Athletic_Portrait_in_Green_Shorts\\original_export\\HALGAN_REF013.zip",
+      "archive_sha256": "cfe771aa04f0c04bc18383a1a626aa9c2e08e4d4e331839a64078e360015ced3",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF013_Athletic_Portrait_in_Green_Shorts\\blender_handoff\\REF013_BLENDER_HANDOFF.blend",
+      "native_sha256": "58a92690e98df1661df43918b82c4a095599843f077eb3e64cf43a1ccfef3299"
+    },
+    {
+      "ref": "REF017",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF017_Black_and_Gold_Boxing_Glove\\original_export\\HALGAN_REF017.zip",
+      "archive_sha256": "c4cf8a11b772f651f55cf51bd6cb1276510858d32376c294b99e0de1d15a2387",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF017_Black_and_Gold_Boxing_Glove\\blender_handoff\\REF017_BLENDER_HANDOFF.blend",
+      "native_sha256": "601ab548722000bec8ebe89948dcd2ab1b60ee07c572dfafab59e91e23e2ab14"
+    },
+    {
+      "ref": "REF044",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\original_export\\HALGAN_REF044.zip",
+      "archive_sha256": "dfde374930f26faf673087fa2766e49fc7c2c17220de9e5f8372945bcffa4753",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF044_Black_Satin_Hooded_Robe_with_Gold_Trim\\blender_handoff\\REF044_BLENDER_HANDOFF.blend",
+      "native_sha256": "238bbec4cdfc96b8481216ec24a8dbb766e4bfdf60b453e03bb50ff3dd089773"
+    },
+    {
+      "ref": "REF056",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\original_export\\HALGAN_REF056.zip",
+      "archive_sha256": "428f322eb23fcbac9c51dc783be59818621e6249a4e5c17511d2bb8fbd475407",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF056_Centered_Athlete_in_Gold_Trimmed_Shorts\\blender_handoff\\REF056_BLENDER_HANDOFF.blend",
+      "native_sha256": "38f9044796c43291b9a24d594db819409bbb9d845c3f403b28d6e534fb89c9a4"
+    },
+    {
+      "ref": "REF057",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF057_Centered_Shirtless_Athlete_in_Burgundy_Shorts\\original_export\\HALGAN_REF057.zip",
+      "archive_sha256": "bbb85d4d923b6a6443b1c2b129d2d321724287646de99dfa456349d9f5c31486",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF057_Centered_Shirtless_Athlete_in_Burgundy_Shorts\\blender_handoff\\REF057_BLENDER_HANDOFF.blend",
+      "native_sha256": "05993902f0b774b460c797a14578bd836fd7af25119be34b7f49d6eabba6876c"
+    },
+    {
+      "ref": "REF072",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\original_export\\HALGAN_REF072.zip",
+      "archive_sha256": "0010794fe3a20f1869f3e3010a257b53eedb5c6e52aff40ea3d5671fa2849841",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\blender_handoff\\REF072_BLENDER_HANDOFF.blend",
+      "native_sha256": "745b4d88db2759fb9d656c410c97b382ba46ed14f389d8c8431471f2b94f73e4"
+    },
+    {
+      "ref": "REF079",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF079_Framed_Red_Shadow_Boxer\\original_export\\HALGAN_REF079.zip",
+      "archive_sha256": "807080dd6da5db922118b813134ec1dcd175677215466f595edba20d5f3f32fc",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF079_Framed_Red_Shadow_Boxer\\blender_handoff\\REF079_BLENDER_HANDOFF.blend",
+      "native_sha256": "a02c319164e51b16adef79fe0b83e7e8e4173ba8a33b1522b4c6e6dd0b2e5b33"
+    },
+    {
+      "ref": "REF081",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF081_Front_Facing_Teal_Boxing_Portrait\\original_export\\HALGAN_REF081.zip",
+      "archive_sha256": "9a02c5f114934fbe6a0ff71664a9beac9b546deca2f27155d4a421571b211553",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF081_Front_Facing_Teal_Boxing_Portrait\\blender_handoff\\REF081_BLENDER_HANDOFF.blend",
+      "native_sha256": "7628a453b7128924eb58a75000a60ec15495947ec5b788b331bc231867c8cd6b"
+    },
+    {
+      "ref": "REF082",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\original_export\\HALGAN_REF082.zip",
+      "archive_sha256": "e355dc3eb7ae6662ab0be166c7c8de8186f48506c6a0a01fea289f649d37391f",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF082_Full_Body_Athlete_in_Maroon_Shorts\\blender_handoff\\REF082_BLENDER_HANDOFF.blend",
+      "native_sha256": "adaf8cdb80ac10434103837f0c07781f74a8989dbac9e50b81e340e095c649e5"
+    },
+    {
+      "ref": "REF083",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF083_Full_Body_Athletic_Portrait\\original_export\\HALGAN_REF083.zip",
+      "archive_sha256": "1426e69efd3719c71bff7f24c29ce911be0fc254b25fb6410c708d625c9f2211",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF083_Full_Body_Athletic_Portrait\\blender_handoff\\REF083_BLENDER_HANDOFF.blend",
+      "native_sha256": "6cf2216ba41a7268e5ea057b506d7bda16c675d691ba08d4361910c64ef334fd"
+    },
+    {
+      "ref": "REF084",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF084_Full_Body_Athletic_Studio_Portrait\\original_export\\HALGAN_REF084_existing.zip",
+      "archive_sha256": "e87689a11dbd83948a328d93633f5bbeb7dbe1a3b0c9bf6ae66bbe4a86c9563b",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF084_Full_Body_Athletic_Studio_Portrait\\blender_handoff\\REF084_BLENDER_HANDOFF.blend",
+      "native_sha256": "dfcf812d680dddd21637955d8d215fc55a897d4c0168dfd96c7eec0a6a6319a6"
+    },
+    {
+      "ref": "REF118",
+      "archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\original_export\\HALGAN_REF118.zip",
+      "archive_sha256": "82d92f9eb1696297b00a697157edd810aa72c9e5ed275e2b6379380c2211eff8",
+      "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF118_Maroon_Satin_Hooded_Robe_with_Black_Trim\\blender_handoff\\REF118_BLENDER_HANDOFF.blend",
+      "native_sha256": "600073b76d930f9e05455d37635e6f51edae9b445a1987a628afd4dc4cf8a379"
+    }
+  ],
+  "tripo_balance_at_start": 845,
+  "further_credit_budget": 0
+}

@@ -1,0 +1,41 @@
+{
+  "ref": "REF072",
+  "status": "CLEANUP_EXPORTED_VISUAL_REVIEW_PENDING",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\original_export\\HALGAN_REF072.zip",
+  "source_archive_sha256": "0010794fe3a20f1869f3e3010a257b53eedb5c6e52aff40ea3d5671fa2849841",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Empty Boxing Ring in Red, White, and Blue\\Empty Boxing Ring in Red, White, and Blue.png",
+  "source_image_sha256": "3cd0f0f1f877d0becd1792d142ef0b28cc1076c8c131257c0c10a543a9b08ec6",
+  "triangles": 13184,
+  "vertices": 13712,
+  "materials": 8,
+  "world_bounds_metres": [
+    [
+      -3.4549999237060547,
+      3.4549999237060547
+    ],
+    [
+      -4.765000343322754,
+      3.4549999237060547
+    ],
+    [
+      0.004999998956918716,
+      2.2899999618530273
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\REF072_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\REF072_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF072_Empty_Boxing_Ring_in_Red_White_and_Blue\\REF072_CLEAN.fbx",
+  "native_sha256": "0196fac61a2ef6151f479e3cb80a8a3d53c7d5bea9d40de9fb58f6835bf36580",
+  "glb_sha256": "95a72ad98a7760759f87d4446051375f836633696fa33cb45310e6acd055c93d",
+  "fbx_sha256": "e6f2bde56985ed8dbf2158c98d188515f0cce108443e4876c612a6fe4132a2cd",
+  "edits": [
+    "Rebuilt ring from original reference: clean deck/apron, four continuous rope runs, seated pads and turnbuckles, steel supports and stairs",
+    "Authored original geometry and solid materials; no generated broken geometry retained"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0
+}

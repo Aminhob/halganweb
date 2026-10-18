@@ -1,0 +1,48 @@
+{
+  "ref": "REF009",
+  "status": "CLEANUP_VISUAL_PASS",
+  "source_archive": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\HALGAN_TRIPO_UNIQUE\\REF009_Athletic_Man_in_Studio_Pose\\original_export\\HALGAN_REF009.zip",
+  "source_archive_sha256": "47caac864b3bb8f3aae1f3851fd562bf94728bcc54f048cf271096624f396708",
+  "original_source_image": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\OLD\\ORGANIZED_2026-10-18\\04_3D_ASSETS\\image-to-3D assets\\01_HALGAN_UNIQUE\\Athletic Man in Studio Pose\\Athletic Man in Studio Pose.png",
+  "source_image_sha256": "13bc11d617092860bf8219c1985ea6d8accd18e81fa81350ecac57f214e6a85d",
+  "triangles": 19510,
+  "vertices": 15314,
+  "materials": 1,
+  "world_bounds_metres": [
+    [
+      -0.5923139452934265,
+      0.5923205018043518
+    ],
+    [
+      -0.16452205181121826,
+      0.16439689695835114
+    ],
+    [
+      0.00014972308417782187,
+      1.7996279001235962
+    ]
+  ],
+  "scale_and_pivot": "Metres; asset geometry centeredXY with floorZ0 (ring includes external steps)",
+  "native_reopened": true,
+  "current_glb_reimported": true,
+  "missing_textures": [],
+  "native": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF009_Athletic_Man_in_Studio_Pose\\REF009_CLEAN.blend",
+  "glb": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF009_Athletic_Man_in_Studio_Pose\\REF009_CLEAN.glb",
+  "fbx": "C:\\Users\\pc\\Documents\\HALGAN ASSETS\\04_3D_ASSETS\\02_CLEAN_STATIC_MODELS\\REF009_Athletic_Man_in_Studio_Pose\\REF009_CLEAN.fbx",
+  "native_sha256": "4e1ce45ea13e4eeaf823ade58a4ded1b07685066c2a0c6b3a55a4368c74df4b0",
+  "glb_sha256": "e4d7cd13d36327eb2487cdf040f1a8b9ff13eae3a492308d8b9db19bde8a7e90",
+  "fbx_sha256": "967efe7880e997dc0d07796f396dadd870502653e964a40b016a95dcbae6926f",
+  "edits": [
+    "Normalized metres, floor pivot and centered horizontal origin",
+    "Merged coincident vertices, removed loose wire vertices and recalculated normals",
+    "Tuned skin/cloth roughness range to0.38-0.73",
+    "Removed spurious metallic response from skin/cloth"
+  ],
+  "rigging_deformation_unity_android": "PENDING_NOT_PERFORMED",
+  "tripo_credits_added": 0,
+  "fbx_reimported": true,
+  "fbx_missing_textures": [],
+  "visual_review_note": "Static source-relative front/rear review and current native/GLB/FBX imports passed; rigging/deformation/runtime remain pending.",
+  "visual_review_scope": "Static reference-relative front and rear review; no rig/runtime approval",
+  "visual_reviewed_utc": "2026-10-18T19:49:56.485227+00:00"
+}
