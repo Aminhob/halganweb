@@ -1,0 +1,210 @@
+[
+  {
+    "route": "/",
+    "title": "The Next Generation of Boxing"
+  },
+  {
+    "route": "/game/",
+    "title": "The Game"
+  },
+  {
+    "route": "/fighters/",
+    "title": "Fighters & Legends"
+  },
+  {
+    "route": "/modes/",
+    "title": "Game Modes"
+  },
+  {
+    "route": "/city/",
+    "title": "HALGAN City"
+  },
+  {
+    "route": "/shop/",
+    "title": "The HALGAN Showroom"
+  },
+  {
+    "route": "/rewards/",
+    "title": "Rewards & Progression"
+  },
+  {
+    "route": "/media/",
+    "title": "Media & Gallery"
+  },
+  {
+    "route": "/development/",
+    "title": "Development Journey"
+  },
+  {
+    "route": "/news/",
+    "title": "News & Announcements"
+  },
+  {
+    "route": "/coming-soon/",
+    "title": "Coming Soon on Android"
+  },
+  {
+    "route": "/about/",
+    "title": "About HALGAN"
+  },
+  {
+    "route": "/shop/ref003/",
+    "title": "Athletic Black Man in Studio Stance"
+  },
+  {
+    "route": "/fighters/ref003/",
+    "title": "Athletic Black Man in Studio Stance"
+  },
+  {
+    "route": "/shop/ref004/",
+    "title": "Athletic Boxer in Blue Shorts 1"
+  },
+  {
+    "route": "/fighters/ref004/",
+    "title": "Athletic Boxer in Blue Shorts 1"
+  },
+  {
+    "route": "/shop/ref005/",
+    "title": "Athletic Boxer in Blue Shorts"
+  },
+  {
+    "route": "/fighters/ref005/",
+    "title": "Athletic Boxer in Blue Shorts"
+  },
+  {
+    "route": "/shop/ref006/",
+    "title": "Athletic Boxer in Studio Light"
+  },
+  {
+    "route": "/fighters/ref006/",
+    "title": "Athletic Boxer in Studio Light"
+  },
+  {
+    "route": "/shop/ref007/",
+    "title": "Athletic Boxer in White Studio"
+  },
+  {
+    "route": "/fighters/ref007/",
+    "title": "Athletic Boxer in White Studio"
+  },
+  {
+    "route": "/shop/ref008/",
+    "title": "Athletic Man in Purple Boxing Shorts"
+  },
+  {
+    "route": "/fighters/ref008/",
+    "title": "Athletic Man in Purple Boxing Shorts"
+  },
+  {
+    "route": "/shop/ref009/",
+    "title": "Athletic Man in Studio Pose"
+  },
+  {
+    "route": "/fighters/ref009/",
+    "title": "Athletic Man in Studio Pose"
+  },
+  {
+    "route": "/shop/ref010/",
+    "title": "Athletic Model in Minimalist Studio Pose"
+  },
+  {
+    "route": "/fighters/ref010/",
+    "title": "Athletic Model in Minimalist Studio Pose"
+  },
+  {
+    "route": "/shop/ref011/",
+    "title": "Athletic Portrait in Burnt Orange Shorts"
+  },
+  {
+    "route": "/fighters/ref011/",
+    "title": "Athletic Portrait in Burnt Orange Shorts"
+  },
+  {
+    "route": "/shop/ref012/",
+    "title": "Athletic Portrait in Golden Shorts"
+  },
+  {
+    "route": "/fighters/ref012/",
+    "title": "Athletic Portrait in Golden Shorts"
+  },
+  {
+    "route": "/shop/ref013/",
+    "title": "Athletic Portrait in Green Shorts"
+  },
+  {
+    "route": "/fighters/ref013/",
+    "title": "Athletic Portrait in Green Shorts"
+  },
+  {
+    "route": "/shop/ref017/",
+    "title": "Black and Gold Boxing Glove"
+  },
+  {
+    "route": "/shop/ref056/",
+    "title": "Centered Athlete in Gold Trimmed Shorts"
+  },
+  {
+    "route": "/fighters/ref056/",
+    "title": "Centered Athlete in Gold Trimmed Shorts"
+  },
+  {
+    "route": "/shop/ref057/",
+    "title": "Centered Shirtless Athlete in Burgundy Shorts"
+  },
+  {
+    "route": "/fighters/ref057/",
+    "title": "Centered Shirtless Athlete in Burgundy Shorts"
+  },
+  {
+    "route": "/shop/ref072/",
+    "title": "Empty Boxing Ring in Red White and Blue"
+  },
+  {
+    "route": "/shop/ref079/",
+    "title": "Framed Red Shadow Boxer"
+  },
+  {
+    "route": "/shop/ref081/",
+    "title": "Front Facing Teal Boxing Portrait"
+  },
+  {
+    "route": "/fighters/ref081/",
+    "title": "Front Facing Teal Boxing Portrait"
+  },
+  {
+    "route": "/shop/ref082/",
+    "title": "Full Body Athlete in Maroon Shorts"
+  },
+  {
+    "route": "/fighters/ref082/",
+    "title": "Full Body Athlete in Maroon Shorts"
+  },
+  {
+    "route": "/shop/ref083/",
+    "title": "Full Body Athletic Portrait"
+  },
+  {
+    "route": "/fighters/ref083/",
+    "title": "Full Body Athletic Portrait"
+  },
+  {
+    "route": "/shop/ref084/",
+    "title": "Full Body Athletic Studio Portrait"
+  },
+  {
+    "route": "/fighters/ref084/",
+    "title": "Full Body Athletic Studio Portrait"
+  },
+  {
+    "route": "/news/electric-blue/",
+    "title": "THE IDENTITY EVOLVES."
+  },
+  {
+    "route": "/news/asset-production/",
+    "title": "BUILT FOR THE RING."
+  },
+  {
+    "route": "/news/animation-library/",
+    "title": "MOVEMENT TAKES SHAPE."
+  }
+]
